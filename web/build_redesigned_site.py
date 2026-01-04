@@ -3,7 +3,6 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import shutil
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -186,7 +185,7 @@ def main() -> int:
     parser.add_argument("--structure", required=True, help="Path to report-structure.json")
     parser.add_argument("--out", required=True, help="Output folder (web/) containing pages/ and assets/")
     parser.add_argument("--max-pages", type=int, default=0, help="Optional cap to reduce extraction time")
-    parser.add_argument("--copy-pdf", action="store_true", help="Copy the source PDF into web/assets/ for linking")
+    # Intentionally no option to link/copy the source PDF into the website output.
     args = parser.parse_args()
 
     pdf_path = Path(args.pdf)
@@ -204,13 +203,6 @@ def main() -> int:
 
     toc = _load_outline_toc(Path(args.structure))
     doc = fitz.open(pdf_path)
-    if args.copy_pdf:
-        # When serving from inside web/, links to ../<pdf> won’t work.
-        # Copy to web/assets/<pdf> so it’s accessible.
-        dest = assets_dir / pdf_path.name
-        if not dest.exists():
-            shutil.copy2(pdf_path, dest)
-
     last_page = doc.page_count
     if args.max_pages and args.max_pages > 0:
         last_page = min(last_page, args.max_pages)
@@ -275,17 +267,11 @@ def main() -> int:
                 f"<li>{e.title} (starts p{e.page})</li>" for e in appendix_entries
             )
 
-            pdf_link = (
-                f"<a href=\"../assets/{pdf_path.name}\">{pdf_path.name}</a>"
-                if args.copy_pdf
-                else f"{pdf_path.name}"
-            )
             body = f"""
 <h1>{label}</h1>
 <p class=\"meta\">Evidence library from the report.</p>
 <div class=\"callout\">
   <p>This site organizes the report content; appendices remain the primary evidence source.</p>
-  <p>Original PDF: {pdf_link}</p>
 </div>
 <h2>Appendix list</h2>
 <ul>
