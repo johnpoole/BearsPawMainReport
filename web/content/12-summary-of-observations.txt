@@ -1,0 +1,86 @@
+12 
+SUMMARY OF OBSERVATIONS 
+Upon review of all available data at the time of writing this report, the following key findings can be made: 
+• 
+Pump and system operations immediately before the failure, did not contribute to the failure. 
+• 
+There is no information to suggest that applicable standards at the time were not followed. However, since 
+the time of manufacture design standards have evolved in relation to limit states such as microcracking, 
+prestress wire parameters, and protection from corrosive soils. 
+• 
+Sulphate resistant mortar was used in the manufacture of the pipe, which while meeting standards at the time, 
+has since been found to be less resistant to chloride penetration.  
+• 
+Microcracking of the mortar due to internal or external stresses may have occurred, allowing for accelerated 
+corrosion in areas with corrosive soils.   
+• 
+Some exhumed pipes with distress showed visible mortar cracking and delamination, while other distressed 
+pipes had firm sound mortar. There was no evidence of sulphate attack of the mortar on any pipes. 
+• 
+Prestress wires on the distressed pipes with cracked and/or delaminated mortar showed longitudinal splits, 
+lateral/transverse fractures, oblique fractures, pitting and general corrosion. 
+• 
+Prestress wires on the distressed pipe with sound mortar showed pitting and lateral fractures, indicating the 
+mortar was not passivating the steel.  
+• 
+There does not appear to be any clear differentiating characteristics of the distress in Class 16 versus Class 20 
+pipes. 
+• 
+Some prestress wires that appear good and electrically continuous, are brittle and are ready to fail. Therefore, 
+electromagnetic inspections are likely reporting conservative pipe condition.  
+• 
+Failed wires in the non-ruptured pipes did not show any necking or visible cup and cone fractures to indicate 
+that the wires experienced stresses beyond their original tensile strength. The necking observed in the 
+ruptured pipe is therefore believed to have occurred during the rupture. 
+• 
+Black corrosion by-product was evident on many lateral/transverse fractures indicating potential SCC as 
+defined by The Association for Materials Performance and Protection (AMPP). 
+• 
+There was no evidence of corrosion of the steel cylinder on the non-ruptured pipes, but there was on the 
+ruptured pipe. 
+• 
+The locations of the distressed pipes from the electromagnetic inspection show no geographical patterns 
+corresponding with land, structural or surface features. They are located in greenspaces, medians, residential 
+roads, major roads and under the Bow River suggesting that live loading is not a consideration. 
+• 
+Stray current pickup or discharge is not believed to be driving the corrosion of the prestress wires but could 
+be a contributing factor to corrosion of the prestress wires on pipes where the mortar has failed. 
+• 
+Extreme chloride concentrations are present in the soils surrounding the non-ruptured distressed pipes 
+exposed to date. Soil samples around the ruptured pipe are not considered to be reliable. 
+• 
+There appears to have been a dramatic shift in chloride concentrations between The City’s 2014 soil sampling 
+data and the most recent 2024 sampling data. 
+• 
+Elevated soil chloride concentrations are believed to be related to road de-icing activities using sodium 
+chloride. 
+• 
+There is a strong correlation between soils with low resistivities, high chloride concentrations, and pipes with 
+broken prestress wires. 
+• 
+Lab analysis shows evidence of general wire corrosion, pitting corrosion, brittle fractures and wire splitting. 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+• 
+There is evidence of Dynamic Strain Aging of some prestress wires due to longitudinal splitting.  
+• 
+The prestress wires used on the Class 16 pipe shows sensitivity to Hydrogen Induced Cracking (Hydrogen 
+Embrittlement) as defined by AMPP. The prestress wires on the Class 20 pipe do not show any sensitivity to 
+HE. 
+• 
+Mortar lab tests demonstrated chloride penetration has occurred on three of the four distressed pipes 
+exhumed to date, but did not occur on the ruptured pipe. The chloride penetration occurred on both Class 16 
+and Class 20 pipes, but not all. 
+• 
+On the failed pipe (Class 16) and pipe 20220 (Class 20), there is no clear evidence of if or how chlorides or 
+moisture may have reached the prestress wires. 
+• 
+The degree of pitting and corrosion on pipes with otherwise sound mortar, such as pipe 20220, supports the 
+potential for microcracking since chloride penetration was not found.  
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

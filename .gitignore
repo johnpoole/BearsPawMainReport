@@ -1,0 +1,12 @@
+# Ignore the large source PDF (exceeds GitHub 100MB limit)
+/Bearspaw South Feeder Main Investigation Report - IP2024-1237.pdf
+
+# Optional: ignore generated artifacts
+/site/assets/page-images/
+/web/assets/figures/
+/web/assets/Bearspaw South Feeder Main Investigation Report - IP2024-1237.pdf
+
+# Python
+.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,305 @@
+{
+  "pdf": "Bearspaw South Feeder Main Investigation Report - IP2024-1237.pdf",
+  "pageCount": 596,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "Report",
+    "author": "hehrb@ae.ca",
+    "keywords": "Report,",
+    "creator": "Acrobat PDFMaker 24 for Word",
+    "producer": "Adobe PDF Library 24.4.48",
+    "creationDate": "D:20241118075141-07'00'",
+    "modDate": "D:20241204110517-07'00'"
+  },
+  "outlineToc": [
+    {
+      "level": 1,
+      "title": "Executive Summary",
+      "page": 3
+    },
+    {
+      "level": 1,
+      "title": "Table of Contents",
+      "page": 4
+    },
+    {
+      "level": 1,
+      "title": "List of Tables",
+      "page": 6
+    },
+    {
+      "level": 1,
+      "title": "List of Figures",
+      "page": 7
+    },
+    {
+      "level": 1,
+      "title": "1 Introduction",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "1.1 Scope of Work",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "1.2 Background",
+      "page": 9
+    },
+    {
+      "level": 2,
+      "title": "1.3 Investigation Summary",
+      "page": 11
+    },
+    {
+      "level": 1,
+      "title": "2 Bearspaw South Feedermain",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "2.1 Description",
+      "page": 12
+    },
+    {
+      "level": 2,
+      "title": "2.2 Design / Fabrication Details",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "2.3 Pressure Rating",
+      "page": 13
+    },
+    {
+      "level": 2,
+      "title": "2.4 AWWA Standards",
+      "page": 14
+    },
+    {
+      "level": 1,
+      "title": "3 Field Observations",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "3.1 June 5, 2024 Rupture",
+      "page": 15
+    },
+    {
+      "level": 2,
+      "title": "3.2 Phase 1 Repairs",
+      "page": 17
+    },
+    {
+      "level": 1,
+      "title": "4 Pump Operations Summary",
+      "page": 37
+    },
+    {
+      "level": 1,
+      "title": "5 Finite Element Analysis & Limit State Design",
+      "page": 38
+    },
+    {
+      "level": 1,
+      "title": "6 Electromagnetic Inspection Results",
+      "page": 40
+    },
+    {
+      "level": 1,
+      "title": "7 Stray Current Assessment",
+      "page": 45
+    },
+    {
+      "level": 1,
+      "title": "8 Environmental Investigation",
+      "page": 46
+    },
+    {
+      "level": 2,
+      "title": "8.1 Soil Sample Assessment",
+      "page": 46
+    },
+    {
+      "level": 2,
+      "title": "8.2 Geo-Environmental Assessment",
+      "page": 56
+    },
+    {
+      "level": 1,
+      "title": "9 Metallurgical Analysis",
+      "page": 57
+    },
+    {
+      "level": 1,
+      "title": "10 Mortar and Concrete Analysis",
+      "page": 58
+    },
+    {
+      "level": 1,
+      "title": "11 Live Load Assessment",
+      "page": 59
+    },
+    {
+      "level": 1,
+      "title": "12 Summary of Observations",
+      "page": 60
+    },
+    {
+      "level": 1,
+      "title": "13 Probable Cause",
+      "page": 62
+    },
+    {
+      "level": 1,
+      "title": "Closure",
+      "page": 64
+    },
+    {
+      "level": 1,
+      "title": "Appendix A - Bearspaw South Feedermain Break Initial Investigation, Associated Engineering",
+      "page": 64
+    },
+    {
+      "level": 1,
+      "title": "Appendix B - Pure Technologies Electromagnetic Inspection Results",
+      "page": 94
+    },
+    {
+      "level": 1,
+      "title": "Appendix C - Corrosion Assessment of Initial Break, Corrpro",
+      "page": 111
+    },
+    {
+      "level": 1,
+      "title": "Appendix D - Bearspaw South Feedermain Forensic Investigation, Thurber Engineering",
+      "page": 116
+    },
+    {
+      "level": 1,
+      "title": "Appendix E - 2024 Bearspaw South Feedermain Soil Samples, City of Calgary",
+      "page": 223
+    },
+    {
+      "level": 1,
+      "title": "Appendix F - Bearspaw South Feedermain Geo-Environmental Review, Associated Engineering",
+      "page": 225
+    },
+    {
+      "level": 1,
+      "title": "Appendix G - Bearspaw South Feedermain Prestressing Wire and Steel Cylinder Testing, Pure Technologies",
+      "page": 512
+    },
+    {
+      "level": 1,
+      "title": "Appendix H - Bearspaw Feedermain Concrete Assessment, Tetra Tech",
+      "page": 557
+    }
+  ],
+  "tocPagesByText": [
+    4
+  ],
+  "tocLikeEntriesFromTocPages": [
+    {
+      "title": "Attachment",
+      "page": 2
+    }
+  ],
+  "bigTextCandidates": [],
+  "sectionNumbering": {
+    "topPrefixes": [
+      {
+        "prefix": "40",
+        "count": 2,
+        "example": "40 mm inner concrete lining"
+      },
+      {
+        "prefix": "110",
+        "count": 2,
+        "example": "110 mm concrete core"
+      },
+      {
+        "prefix": "20",
+        "count": 2,
+        "example": "20 mm mortar lining"
+      },
+      {
+        "prefix": "1.61",
+        "count": 1,
+        "example": "1.61 km 1950 mm diameter AWWA C200 steel pipe."
+      },
+      {
+        "prefix": "5.94",
+        "count": 1,
+        "example": "5.94 km 1950 mm diameter AWWA C301 prestressed concrete cylinder pipe (PCCP)."
+      },
+      {
+        "prefix": "3.29",
+        "count": 1,
+        "example": "3.29 km 1500 mm diameter AWWA C301 PCCP."
+      },
+      {
+        "prefix": "5.9",
+        "count": 1,
+        "example": "5.9 km length of 1950 mm diameter AWWA C301 and 3.3 km of 1500 mm diameter AWWA C301 pipe that forms"
+      },
+      {
+        "prefix": "1981",
+        "count": 1,
+        "example": "1981 mm (78\u201d) Actual ID"
+      },
+      {
+        "prefix": "4.88",
+        "count": 1,
+        "example": "4.88 m (16 ft) and 6.10 m (20 ft) standard lengths"
+      },
+      {
+        "prefix": "1524",
+        "count": 1,
+        "example": "1524 mm (60\u201d) Actual ID"
+      },
+      {
+        "prefix": "16",
+        "count": 1,
+        "example": "16 ft standard lengths"
+      },
+      {
+        "prefix": "150",
+        "count": 1,
+        "example": "150 psi. While unconfirmed at this diameter, as noted above, Canron Class 16 C301 pipe was typically rated for"
+      },
+      {
+        "prefix": "160",
+        "count": 1,
+        "example": "160 psi working pressure at 0 m cover."
+      },
+      {
+        "prefix": "200",
+        "count": 1,
+        "example": "200 broken wires. It is not possible to say which wires broke during the rupture."
+      },
+      {
+        "prefix": "12",
+        "count": 1,
+        "example": "12 mm deep scrape marks on"
+      },
+      {
+        "prefix": "114",
+        "count": 1,
+        "example": "114 broken wires (minimum)"
+      },
+      {
+        "prefix": "122",
+        "count": 1,
+        "example": "122 intact, 103 broken/"
+      },
+      {
+        "prefix": "68",
+        "count": 1,
+        "example": "68 broken wires."
+      }
+    ]
+  }
+}
