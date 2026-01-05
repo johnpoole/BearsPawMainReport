@@ -60,7 +60,16 @@
             .style('width', '100%')
             .style('height', 'auto');
 
-        const link = svg.append('g')
+        // Zoom/pan: everything lives inside this viewport group.
+        const viewport = svg.append('g').attr('class', 'entity-viewport');
+        const zoom = d3.zoom()
+            .scaleExtent([0.4, 3])
+            .on('zoom', (event) => {
+                viewport.attr('transform', event.transform);
+            });
+        svg.call(zoom);
+
+        const link = viewport.append('g')
             .attr('class', 'entity-links')
             .selectAll('line')
             .data(links)
@@ -68,7 +77,7 @@
             .append('line')
             .attr('class', 'entity-link');
 
-        const node = svg.append('g')
+        const node = viewport.append('g')
             .attr('class', 'entity-nodes')
             .selectAll('g')
             .data(nodes)
