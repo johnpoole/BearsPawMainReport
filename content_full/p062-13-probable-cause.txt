@@ -1,0 +1,86 @@
+13 Probable Cause
+PAGES 62-63
+
+
+[PAGE 62]
+13 
+PROBABLE CAUSE 
+Based on the information available to AE to date, the following conclusions can be made as to the probable cause of 
+the distress in the exhumed and ruptured pipe: 
+ 
+• 
+The June 5, 2024 rupture was caused by the loss of structural integrity of the pipe, primarily through the 
+failure of the prestress wires.  
+• 
+Since the ruptured pipe showed no evidence of chloride penetration within the mortar, it is believed that 
+microcracking or previous mortar damage allowed moisture and corrosive soils to interact with the 
+prestress wires, leading to Stress Corrosion Cracking or Hydrogen Embrittlement of the prestress wires 
+resulting in brittle wire failures.  
+• 
+It is difficult to distinguish between SCC and HE, however, both can occur on the same prestress wire. HE 
+is considered a form of SCC, but SCC is not considered a form of HE. 
+• 
+It is not possible to say with certainty at this point how passivation properties of the mortar coating on 
+the prestress wires were compromised.  
+• 
+Where mortar had already failed due to wire distress or other damage, the possibility for stray currents to 
+contribute to HE cannot be ruled out. 
+• 
+Since Class 20 pipe was not susceptible to HE, then SCC may be playing the largest role in causing the distress 
+on those pipes along the feedermain. The SCC would be due to the combination of tensile stress on wires 
+exposed to a corrosive environment via microcracking and/or chloride penetration of the mortar. 
+• 
+Dynamic Strain Aging is likely to have contributed to SCC on some wires due to crevice corrosion on pipes 
+where chlorides have penetrated the mortar and/or where microcracking has occurred. 
+• 
+Chloride induced corrosion and resulting pitting are also likely to have contributed to the SCC of wires on 
+some pipes. 
+• 
+In the pipes where HE is believed to have occurred, it is believed that pitting corrosion from chloride ingress 
+(through microcracks or mortar penetration) produced hydrogen, leading to HE and ultimately brittle failures 
+of the wires. HE is most likely to have occurred on the brittle failures where no evidence of corrosion product 
+is visible on the fracture surface itself. 
+• 
+Microcracking of the mortar over the years may have contributed to prestress wire corrosion.  The design of 
+C301 pipe is complex, and design standards of AWWA C301 have evolved over time. The design of the pipe 
+in the 1970’s, while acceptable at the time, may not have been sufficient to prevent microcracking, leading to 
+accelerated corrosion from aggressive environmental conditions over the entire life of the pipe. 
+• 
+High concentrations of chlorides in the soil are not always required to cause pipe distress if there is a 
+fluctuating water table, as fluctuating water tables can deposit chlorides on to the mortar leading to higher 
+concentrations on the mortar itself. Ground water monitoring has commenced to help with this assessment. 
+Additional soil sampling may be warranted next to pipes that are in a moderate to severe state of distress, to 
+assist in validating probable cause. 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 63]
+• 
+The dramatic shift in soil chemistry between 2014 and 2024 samples requires further investigation to develop 
+an opinion as to potential causes. In addition to ground water monitoring and additional soil sampling, a review 
+of distribution pipe failure rates in the Bowness/Montgomery area may be helpful. If chloride levels in the soil 
+have either increased or become widespread, the corrosion and break rates of other metallic pipe in the area 
+would also be expected to follow suit. Further to this, it would be prudent for The City to resample the soil in 
+areas along all feedermains where chloride levels were previously found to be greater than 100 mg/L, 
+particularly in areas along or adjacent to major roadways (Priority 1 snow removal routes). As a result, The City 
+may wish to revisit the risk profile of mortar coated steel, C301 and C303 along pipes with greater than 
+100 mg/L chlorides. 
+• 
+Spalling mortar appears to be attributed to either: 
+• 
+Brittle wire failures relieving tension and cracking the mortar leading to corrosion and further cracking. 
+• 
+Microcracking due to extreme internal or external stresses, leading to corrosion and visible cracking. 
+• 
+Based on the information available to date, it is most likely that the majority of the pipe distress along the 
+BSFM is due to SCC and HE. However, it is difficult to draw the conclusion that all the distressed pipes 
+reported by Pure along the entire feedermain have prestress wires failing due to a combination of HE or SCC 
+without further soil sampling, pipe exposure, and lab analysis of mortar and steel components. 
+ 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

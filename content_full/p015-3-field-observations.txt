@@ -1,0 +1,662 @@
+3 Field Observations
+PAGES 15-36
+
+
+[PAGE 15]
+3 
+FIELD OBSERVATIONS 
+3.1 
+June 5, 2024 Rupture 
+Following work by The City crews to fully expose the ruptured pipe segment, representatives from The City (multiple 
+departments), AE, Corrpro (subconsultant to AE providing corrosion assessment services), and Pure met on-site on 
+June 8 and conducted an inspection of the pipe damage. Below is a summary of what was observed during the site 
+visit and subsequent days after removal of the pipe: 
+• 
+The pipe depth of bury was approximately 2.5 m to the top of the pipe, aligning with The City standards at the 
+time, but slightly deeper than indicated on the record drawings. 
+• 
+The cylinder tore in a crescent shape starting and ending from the longitudinal weld on the steel cylinder 
+positioned just above the springline. The tear occurred below the springline. 
+• 
+The cylinder showed signs of thinning close to the tear. This thinning could be attributed to the corrosion or 
+possibly elongation during the rupture. Water erosion of the cylinder was not visually apparent. 
+• 
+Every prestressed wire across the rupture (~2 m) was broken, and those still visible showed the wire break 
+generally at the same orientation along the springline. Based on wire spacing, this equated to approximately 
+200 broken wires. It is not possible to say which wires broke during the rupture.  
+• 
+Visually, the wire breaks at the time showed various modes of failure including general corrosion, lateral, and 
+oblique fractures indicating brittle failures, and some fractures with necking indicating some ductile failures.  
+• 
+There was a noticeable deep crease in the steel cylinder. Potential causes for the crease are uncertain and 
+could be from the rupture of the cylinder itself. See Figure 3-1 on the following page. 
+• 
+There was no visual evidence of external mortar or outer concrete core deterioration due to sulphates or 
+other soil conditions.  
+• 
+The invert of the west joint had field applied grout missing; corrosion of the spigot ring was apparent, but not 
+believed to be impacting the structural integrity of the pipe, and no indication of a leak. See Figure 3-2 on the 
+following page. Due to the degree of corrosion present, it is likely that the grout diaper was missing prior to 
+the failure. 
+• 
+Apart from the nearby presence of high voltage overhead electrical utilities, which will be discussed later, no 
+other utilities appear to be a contributing factor. 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 16]
+Figure 3-1 Downstream Extent of 
+Steel Cylinder Rupture 
+ 
+Figure 3-2 Bottom of Pipe 
+Showing Missing Diaper 
+ 
+ 
+ 
+ 
+Figure 3-3 Looking Upstream Along Springline 
+ 
+*Photos provided by The City of Calgary 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 17]
+3.2 
+Phase 1 Repairs 
+AE was present during the Phase 1 repair program to replace/rehabilitate the five pipes found to be distressed during 
+the electromagnetic inspections undertaken subsequent to the initial break. Please refer to Figure 3-4. Four out of the 
+five pipes were removed and transported to the Bearspaw Operations Workplace Centre for examination. High 
+pressure water jetting (hydroblasting) was used to remove the mortar coating to expose the prestress wire. Table 3-1 
+below summarize the key findings of the exhumed pipes. 
+ 
+Figure 3-4 Location of June 5 Rupture and Phase 1 Repairs 
+ 
+Table 3-1 
+Phase 1 Exhumed Pipe Measurements  
+Class 16 Measurements– 
+ Ruptured Pipe & Pure Robotic 20095 
+(See Figure 3-4) 
+Class 20 Pipe Measurements –  
+Pure Robotic 20189, 20202, 20219, 20220  
+(See Figure 3-5) 
+• 
+40 mm inner concrete lining 
+• 
+110 mm concrete core 
+• 
+20 mm mortar lining 
+• 
+Cylinder thickness = 1.6 mm (16 Gauge 
+• 
+Wire pitch - ~10 mm (varied – wire spacing not 
+even at times) 
+• 
+Wire thickness = ~4.1 mm (8 Gauge) 
+• 
+40 mm inner concrete lining 
+• 
+110 mm concrete core 
+• 
+20 mm mortar lining 
+• 
+Cylinder thickness = 1.6 mm (16 Gauge) 
+• 
+Wire pitch = ~10 mm (varied – wire spacing not 
+even at times) 
+• 
+Wire thickness = 4.8 mm (6 Gauge) 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 18]
+Figure 3-5 Class 16 Cross Section (Robotic Pipe 20095) 
+ 
+Figure 3-6 Class 20 Cross Section (Robotic Pipe 20220) 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 19]
+In general, the exhumed pipes provided the following observations:  
+• 
+No necking or cup and cone fractures at the wire breaks were evident.  
+• 
+Overall wire condition indicates many wires were electrically continuous while in-situ, but corroded to the 
+point they broke during excavation, exhuming, or transport. This explains why the electromagnetic inspections 
+would have reported fewer wire breaks than hydroblasting revealed. 
+• 
+Rubber gaskets were still soft and pliable despite being 50 years old. 
+• 
+Spigot and bell rings on all exhumed pipes were still in good shape with none to minimal corrosion. 
+• 
+There was no evidence of interior cracking or spalling on any pipes in areas of external damage. 
+• 
+There was evidence of patching on the internal mortar lining on some pipes. 
+• 
+No visual evidence of sulphate attack. 
+• 
+Wire failure modes visually appeared to be caused by transverse/lateral fractures, oblique fractures, and 
+general corrosion (loss of steel). 
+• 
+There was no evidence of steel cylinder corrosion. 
+• 
+Hydroblasting of pipe 20220 demonstrated that the mortar was not passivating the wires and pitting and 
+corrosion was occurring.  
+ 
+Pitting corrosion due to chlorides can produce hydrogen, leading to Hydrogen Embrittlement (HE) failures on steel 
+components susceptible to HE. HE is considered a form of Stress Corrosion Cracking (SCC), but SCC is not considered 
+a form of HE. Generally speaking, HE is considered to be a primary cause of brittle failures if the fractures do not show 
+evidence of corrosion byproduct, and the steel is not in an aggressive environment. SCC, which can result in brittle 
+failures as well, is generally caused by tensile stress on steel components exposed to a corrosive environment, such as 
+chlorides.  
+ 
+Table 3-2 
+Observations on Pure Robotic Pipe 20095 
+Pure Robotic Pipe 20095 
+(See Figures 3-6, 3-7, 3-8, 3-9, 3-10, 3-11, & 3-12) 
+In-Situ 
+Pre-hydroblasting 
+Post-hydroblasting 
+• 
+12 mm deep scrape marks on 
+mortar, inline with reported 
+broken wires. 
+• 
+Visible cracking and spalling 
+mortar. 
+• 
+Underlying corrosion evident. 
+• 
+Fabrication Sheets indicated 
+Class 16 pipe (same pipe as 
+ruptured pipe). 
+• 
+Exposed corroded wires 
+present with approximately 
+114 broken wires (minimum) 
+over ~1.1 m section.  
+• 
+Cracked external mortar with 
+rust stains. 
+ 
+• 
+Wire pitch:  9 to 9.3 mm. 
+• 
+Wire diameter:  4.1 mm 
+(8 gauge). 
+• 
+Pipe was too damaged from 
+removal and core samples to 
+accurately count wire breaks. 
+• 
+Pitting on wires with 
+lateral/transverse fractures and 
+oblique fractures indicating 
+brittle failure. 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 20]
+Figure 3-7 Robotic Pipe 20095 Showing Mortar Cracks and Evidence of Corrosion 
+ 
+Figure 3-8 Robotic Pipe 20095 Showing Mortar Cracks, Failed Mortar and Corrosion 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 21]
+Figure 3-9 Robotic Pipe 20095 Showing Mortar Cracks 
+ 
+ 
+Figure 3-10 
+Pipe 20095 SW End Showing Missing Wires and General Corrosion Prior to Hydroblasting 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 22]
+Figure 3-11 
+Pipe 20095– SW End – Corroded Wires 
+ 
+ 
+Figure 3-12 
+Pipe 20095 Post Hydroblast – Believed to be South Side, West End on Left 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 23]
+Figure 3-13 
+Pipe 20095 –Wire Corrosion, Lateral and Oblique Cracking, and Wire Splice 
+ 
+ 
+Table 3-3 
+Observations on Pure Robotic Pipe 20189 
+Pure Robotic Pipe 20189 
+(See Figures 3-13 & 3-14) 
+In-Situ 
+• 
+Thrust block covering east joint. 
+• 
+Wire breaks are in 7.5 ft of exposed pipe to the west of the thrust 
+block. 
+• 
+Sound concrete, no indication of delamination or visible cracking. 
+ 
+The City chose to leave the pipe in place due to the thrust block, and reduce the risk of rupture with a structural 
+reinforced concrete encasement designed by AE. Therefore, the pipe was not exhumed for further analysis. 
+ 
+ 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 24]
+Figure 3-14 
+Robotic Pipe 20189 Showing Thrust Block 
+ 
+ 
+Figure 3-15 
+Robotic Pipe 20189 Showing Scrape But Otherwise Sound Mortar 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 25]
+Table 3-4 
+Pure Robotic Pipe 20202 
+Pure Robotic Pipe 20202  
+(See Figures 3-15, 3-16, 3-17, 3-18, 3-19, 3-20, 3-21 & 3-22) 
+In-Situ 
+Pre-hydroblasting 
+Post-hydroblasting 
+• 
+Longitudinal and 
+circumferential cracks. 
+• 
+Evidence of corrosion through 
+mortar staining. 
+• 
+Firm mortar but sounding 
+indicated delamination. 
+ 
+• 
+Fabrication Sheets indicate 
+Class 20 Pipe. 
+• 
+Cracks in external mortar with 
+rust stains evident. 
+• 
+Spalling and corrosion on north 
+side. Corrosion on south side 
+over 1 m in length 
+longitudinally.  
+ 
+• 
+Wire pitch:  10 mm.  
+• 
+Wire diameter:  4.82 mm wire.  
+• 
+Broken wires over 2.25 m from 
+west joint to east cut:  
+122 intact, 103 broken/ 
+compromised. 
+• 
+Breaks predominantly occurred 
+at springline, but also at various 
+circumferential positions around 
+the pipe. 
+• 
+Breaks due to general corrosion 
+(loss of steel material) along with 
+lateral/transverse fractures and 
+oblique fractures indicative of 
+brittle failure.  
+• 
+Uneven wire spacing. 
+ 
+ 
+Figure 3-16 
+Robotic Pipe 20202 Showing Cracking and Evidence of Corrosion 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 26]
+Figure 3-17 
+Robotic Pipe 20202 Showing Failed Mortar and Corroded Wires 
+ 
+ 
+Figure 3-18 
+Pipe 20202 – SE End Showing General Corrosion Under Cracked Mortar 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 27]
+Figure 3-19 
+Pipe 20202 – Post Hydroblast Showing Wire Corrosion Where Mortar Delamination Occurred. 
+ 
+ 
+Figure 3-20 
+Pipe 20202 – Corroded Broken Wire with Oblique Fracture 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 28]
+Figure 3-21 
+Pipe 20202 – Wires Completely Corroded Away 
+ 
+Figure 3-20 also shows 
+broken wires due to general 
+corrosion, however there is 
+possible evidence of wire 
+splitting and crevice 
+corrosion (as deﬁned by The 
+Association for Materials 
+Performance and Protection 
+- AMPP) occurring as shown 
+in the arrows. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3-22 Pipe 20202 – Evidence of Brittle Failures 
+Figure 3-21 and 3-22 both 
+show evidence of splitting 
+and lateral/transverse 
+fractures indicating brittle 
+failure. Notice the corrosion 
+product on the edge of the 
+fracture. Note that some 
+surface rust has occurred 
+post-hydroblasting in these 
+photos.  
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 29]
+Figure 3-23 
+Pipe 20202 – Evidence of Splitting and Brittle Failures 
+ 
+ 
+Table 3-5 
+Observations on Pure Robotic Pipe 20220 
+Pure Robotic Pipe 20220  
+(See Figures 3-23, 3-24, 3-25, 3-26 & 3-27) 
+In-Situ 
+Pre-hydroblasting 
+Post-hydroblasting 
+• 
+Firm mortar with no evidence 
+of cracking, delamination, or 
+distress. 
+ 
+• 
+Fabrication Sheets indicate 
+Class 20 Pipe. 
+• 
+No evidence of damage or 
+distress. 
+• 
+Hammer sounding showed no 
+evidence of hollowness or 
+delamination. 
+• 
+Minor, tan-coloured stains on 
+invert of pipe, but otherwise 
+solid mortar. 
+• 
+Wire pitch:  ~10 mm.  
+• 
+Wire diameter:  4.82 mm.  
+• 
+Over 4.47 m:  379 intact wires, 
+68 broken wires. 
+• 
+Most wire breaks occurred at 
+springline on south side. 
+• 
+Wire spacing not even. 
+• 
+All failures appear to be via 
+brittle failures. 
+ 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 30]
+Figure 3-24 
+Robotic Pipes 20219 and 20220 
+ 
+ 
+Figure 3-25 Pipe 20220 North Side 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 31]
+Figure 3-26 
+Pipe 20220 – June 30 Immediately Post Hydroblast 
+Figure 3-25 shows 
+corrosion stains on 
+the mortar and 
+concrete core, 
+pitting on the wires 
+(arrow) and lateral/ 
+transverse fractures 
+indicating brittle 
+failure.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3-27 Pipe 20220 on June 30 Immediately Post Hydroblast 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 32]
+Figure 3-28 Pipe 20220 on June 30 Immediately Post Hydroblast 
+ 
+Figure 3-27 shows 
+corrosion staining on 
+the outside of the 
+concrete core, and 
+black corrosion 
+product on the 
+lateral/transverse 
+fractures.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3-6 
+Observations on Pure Robotic Pipe 20219 
+Pure Robotic Pipe 20219  
+(See Figures 3-28, 3-29, 3-30, 3-31, 3-32, 3-33 & 3-34) 
+In-Situ 
+Pre-hydroblasting 
+Post-hydroblasting 
+• 
+Visible cracks. 
+• 
+Evidence of external mortar 
+patching. 
+ 
+• 
+Fabrication Sheets indicate 
+Class 20 Pipe. 
+• 
+Spalling mortar and corroded 
+wires. 
+ 
+• 
+Wire pitch:  ~10 mm.  
+• 
+Wire diameter:  4.82 mm.  
+• 
+70 intact, 118 broken/ 
+compromised wires within 
+1.88 m of west joint. 
+• 
+Indicates pipe did not rupture 
+with 118 compromised wires. 
+• 
+Transverse/lateral fractures. 
+• 
+Wire blocks on wires indicating 
+manufactured wire splices. 
+• 
+Corrosion under previously 
+intact mortar indicating 
+microcracking and/or chloride 
+penetration 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 33]
+Figure 3-29 
+Robotic Pipe 20219 Showing Mortar Patch 
+ 
+ 
+Figure 3-30 
+Robotic Pipe 20219 Showing Cracking 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 34]
+Figure 3-31 
+Pipe 20219 North Side Prior to Hydroblasting 
+ 
+ 
+Figure 3-32 
+Pipe 20219 - West Cut on Left Side, Post Hydroblasting 
+ 
+Figure 3-31 shows 
+the degree of 
+corrosion occurring 
+on the wires post-
+hydroblasting, even 
+in the areas where 
+concrete had not 
+visibly cracked or 
+spalled. This 
+provides evidence of 
+microcracking 
+and/or chloride 
+penetration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 35]
+Figure 3-33 
+Pipe 20219 – Lateral Wire Fractures with Splitting, and Corrosion Stains on Core 
+ 
+ 
+Figure 3-34 
+Pipe 20219 Showing Entire Section of Prestress Wire Missing  
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 36]
+Figure 3-35 
+Pipe 20219 – Wire Splice 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

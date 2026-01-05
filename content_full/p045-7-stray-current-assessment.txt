@@ -1,0 +1,29 @@
+7 Stray Current Assessment
+PAGES 45-45
+
+
+[PAGE 45]
+7 
+STRAY CURRENT ASSESSMENT 
+Corrpro was retained by AE to conduct tests for stray current and the presence of cathodic protection on the pipeline 
+at the initial rupture location, as well as the subsequent Phase 1 repair sites. Their report is included in Appendix C 
+with key findings as follows:  
+• 
+Corrpro conducted pipe to soil DC potential measurements that confirmed no cathodic protection exists on 
+the pipeline as per City records.  
+• 
+The DC potential was -302 mV, less than the -1000 mV industry threshold of causing hydrogen 
+embrittlement. 
+• 
+No significant levels of stray current were found. 
+• 
+Low AC potential indicate unlikely AC influence being a factor. 
+• 
+Corrpro noted that while the voltage potential itself would not likely be a concern, damaged mortar coating 
+could be a contributing factor to steel corrosion, and stray current pickup or discharge in those areas cannot 
+be ruled out. 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

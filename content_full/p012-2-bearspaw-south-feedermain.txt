@@ -1,0 +1,170 @@
+2 Bearspaw South Feedermain
+PAGES 12-14
+
+
+[PAGE 12]
+2 
+BEARSPAW SOUTH FEEDERMAIN 
+2.1 
+Description 
+Construction of the 1950 mm and 1500 mm portions of the BSFM were completed in 1975. The portion of pipe that 
+is the focus of this report is AWWA C-301 (ECP), commonly referred to as Prestressed Concrete Cylinder Pipe (PCCP) 
+Embedded Cylinder Type.  
+The pipe was fabricated by Canron, which eventually became Hyprescon, then Hanson, then Forterra, and is now 
+known as Rinker. This type of pipe contains a thin gauge steel cylinder embedded within a concrete core. The pipe is 
+then laid horizontally and spun while prestressing wires are wound around it under stresses exceeding 150,000 psi. 
+The wires are then coated in a mortar mix. It is primarily the prestress wire diameter (gauge) and spacing (pitch) that 
+provide the internal pressure capacity of the pipe, while the steel cylinder acts primarily as a water barrier and not a 
+structural element. See Figure 2-1 below. 
+ 
+Figure 2-1 Cross Section of Typical C-301-ECP pipe per AWWA M9 
+ 
+Unique to this pipe is that the pressure classes, steel gauges, wire pitch, mortar and concrete core thickness, joints, 
+and lay lengths are generally dictated by the manufacturer based on project design requirements, in accordance with 
+AWWA design criteria. Pipe joints typically consist of bell and spigot made up of steel joint rings and rubber gaskets. 
+These joints are then protected by mortar-based field coatings commonly referred to as diapers.  
+ 
+Catastrophic failures of C301 pipe are not unusual given the nature of its design. While non-catastrophic leaks do 
+occur at joints, non-catastrophic leaks in the barrel section are considered rare. Catastrophic failures typically occur in 
+the barrel section. Across North America, the primary causes for the pipe to fail catastrophically in the barrel section 
+include: 
+• 
+Hydrogen embrittlement of the prestress wires, due to either stray current or the use of prestress wire with 
+hydrogen embrittlement sensitivity. 
+• 
+Sulphate attack of the mortar coating, allowing corrosion of the steel wires and cylinder to occur. 
+• 
+Chlorides penetrating the mortar/concrete and attacking the steel wires and cylinder. 
+• 
+Installation damage or poor-quality installation. 
+• 
+Third party damage after installation. 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 13]
+2.2 
+Design / Fabrication Details 
+Based on The City’s record drawings, the specific details of each segment of C301 pipe forming the BSFM are as 
+follows in Table 2-1. 
+Table 2-1 
+Pipe Fabrication Details 
+From 33 Avenue & 87 Street NW to 2424024VC7533 
+(VC2) at Edworthy Park 
+From 2424024VC7533 (VC2) at Edworthy Park to 
+1724013VC5125  
+(VC3) at Memorial Drive & 21 Street NW 
+• 
+City Microfilm 413.0043.XXX 
+• 
+Constructed in 1975 
+• 
+AWWA C301 (ECP) - Prestressed Concrete Cylinder 
+Pipe – Embedded Cylinder Type) 
+• 
+1981 mm (78”) Actual ID 
+• 
+Manufacturer – CANRON (now known as Rinker Pipe) 
+• 
+Joint Diameter – 2095 mm 
+• 
+4.88 m (16 ft) and 6.10 m (20 ft) standard lengths 
+• 
+Canron Pressure Class 16 and 20 
+• 
+Type V Sulphate Resistant Cement. 
+• 
+City Microfilm 413.0043.XXX 
+• 
+Constructed in 1975 
+• 
+AWWA C301-(ECP) (Prestressed Concrete Cylinder 
+Pipe – Embedded Cylinder Type) 
+• 
+1524 mm (60”) Actual ID 
+• 
+Manufacturer – CANRON (now known as Rinker Pipe) 
+• 
+Joint Diameter – 1622 mm 
+• 
+16 ft standard lengths 
+• 
+Predominantly Canron Pressure Class 17, 18 and some 
+11 
+• 
+Type V Sulphate Resistant Cement 
+ 
+The C301 portion of the BSFM does not have impressed current cathodic protection and was not designed with 
+electrically continuous joints. 
+ 
+2.3 
+Pressure Rating 
+The 1950 mm portion of the BSFM conveys water from the Bearspaw WTP High Lift Pump Station (HLPS) at an 
+elevation of 1083 m. Portions of the feedermain drop to as low as 1053 m based on the plan and profile record 
+drawings. It is AE’s understanding that the maximum pump head at the HLPS is approximately 57 m (90 psi). Based on 
+The City’s Feedermain Specifications, the conservative working pressure of the feedermain at the lowest point along 
+the 1950 mm portion is then 869 kPa (126 psi). The design pressure (which considers a transient event) for the lowest 
+portion of the feedermain would be 1310 kPa (190 psi) based on The City’s current standards, and 1145 kPa (166 psi) 
+based on current AWWA C304 standard. The City’s current design pressure requirements exceed current 
+AWWA C304 requirements which only require 40 psi surge pressure to be added to the working pressure. It is AE’s 
+understanding that The City’s current standards for calculating pressure ratings were common practice at The City in 
+the 1970’s. 
+ 
+The Canron fabrication drawings in The City’s records are missing a key page showing key design data, and do not 
+state the design pressure of the various pressure classes used along the pipe. Rinker indicated they do not have the 
+manufacturing records or design calculations of the pipe and were therefore unable to confirm the pressure ratings of 
+the pipe used on the project. Rinker referred AE to the AWWA C304 standard to determine each individual pipe 
+segment’s pressure rating. It is noted that C304 did not exist at the time of pipe manufacture, as the sole standard of 
+the day was C301.  
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 14]
+The 1950 mm C301 portion of the BSFM is comprised of Canron Class 16 and Class 20 pipe segments. Past versions 
+of the manufacturer’s catalogues list the pressure classes of C301 pipe at various diameters and state the standard 
+working pressure ratings at various depths of cover via design charts. In general, these catalogues listed C301 Class 16 
+pipe as 1103 kPa (160 psi) working pressure at 0 m cover, and Class 20 at 1379 kPa (200 psi) working pressure at 0 m 
+cover for various pipe diameters. These pressure ratings decreased as the depth of cover increased. AE could not 
+source a catalogue specifically showing the 1950 mm diameter of C301 (ECP). As well, Rinker did not want to make 
+the assumption that the pipe used for the BSFM had the same ratings. 
+ 
+The original pipe that ruptured was a Class 16 pipe. Located at Sta. 136+74 to 136+90 ft, its invert was at an elevation 
+of approximately 1060 m. This equates to a working pressure of 800 kPa (116 psi), and a design pressure of 1200 kPa 
+(174 psi) based on current City standards, and a design pressure of 1076 kPa (156 psi) per C304. The City’s record 
+drawings provide evidence in numerous places that the Class 16 pipe was rated for a working pressure of at least 
+150 psi. While unconfirmed at this diameter, as noted above, Canron Class 16 C301 pipe was typically rated for 
+160 psi working pressure at 0 m cover.  
+ 
+Given the information available, there is no indication that the pipe’s original pressure ratings were not appropriate, 
+given the standards at the time. This is further supported by Performance Curves generated for The City by Pure, 
+which are discussed later in this report. This assumes the various pipe classes were installed at the appropriate 
+locations as per the lay sheets. There are no indications based on the exhumed pipe that the various pipe classes were 
+installed at incorrect locations, however Pure’s electromagnetic scans indicate changes were made during pipe 
+fabrication and installation that were not captured on the record drawings. 
+ 
+2.4 
+AWWA Standards 
+There are currently three AWWA documents applicable to the design, manufacture, and installation of prestressed 
+concrete cylinder pipe: 
+• 
+AWWA C301 Standard for Prestressed Concrete Cylinder Pipe. 
+• 
+AWWA C304 Standard for Design of Prestressed Concrete Cylinder Pipe. 
+• 
+AWWA M9 Design Manual for Concrete Pressure Pipe. 
+ 
+At the time this pipe was manufactured in 1974, only the C301 standard was in existence, having been first introduced 
+in 1949. AWWA C304 was not introduced until 1992, and the M9 manual was first introduced in 1979. This is an 
+important distinction to make as key changes were made to the design of PCCP pipe after 1979 which will be 
+discussed further in this report. 
+ 
+The American Concrete Pressure Pipe Association (ACPPA) was established in 1949 (the same year as C301) and 
+represents most North American PCCP manufacturers. The ACPPA generally references AWWA standards. 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

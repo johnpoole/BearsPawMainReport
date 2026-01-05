@@ -1,0 +1,1759 @@
+Appendix G - Bearspaw South Feedermain Prestressing Wire and Steel Cylinder Testing, Pure Technologies
+PAGES 512-556
+
+
+[PAGE 512]
+APPENDIX G - BEARSPAW SOUTH FEEDERMAIN PRESTRESSING 
+WIRE AND STEEL CYLINDER TESTING, PURE TECHNOLOGIES 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 513]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 514]
+REPORT OF FINDINGS:
+LABORATORY TESTING AND EVALUATION OF
+PRESTRESSING WIRE AND STEEL CYLINDER SPECIMENS
+FROM 78-INCH BEARSPAW FEEDERMAIN IN CALGARY, ALBERTA
+INTRODUCTION
+The 78-inch Prestressed Concrete Cylinder Pipe (PCCP) in Calgary, Alberta has been the subject of an
+investigation by Pure Technologies (Pure).  According to Josh Greenberg, Condition Assessment
+Engineer with Pure, a pipe segment in the Bearspaw Feedermain failed on June 5, 2024.
+Pure subsequently extracted some of the
+prestressing wires and a portion of the
+steel cylinder from this pipe segment and
+shipped these specimens to RJ Peterman
+& Associates, Inc. (RJPA), Manhattan,
+KS for testing and evaluation.  These
+wires were received by RJPA on 6-21-
+2024 and the package sent by Pure
+contained eight (8) individual wire pieces
+from the failure location in the pipe.  Six
+of these wires contained one broken end
+shipment.  The other two wires were
+extracte
+prior to
+shipment.  Photos documenting the fractured surfaces of each broken wire are shown in Appendix A of
+this report.  This appendix shows two different views of each fracture.
+The surface condition of the as-received 8-gage prestressing wires generally contained light-moderate
+corrosion with some small areas of pitting along the wire length.  However, Broken Wires 1 and 6
+contained significant corrosion with heavy pitting and were not suitable for additional testing.  A
+relatively clean specimen of the steel cylinder without a weld was also sent to RJPA from which one
+tensile coupon was extracted.
+The laboratory tests requested by Pure included:
+Four wire hydrogen embrittlement sensitivity tests, in accordance with ASTM A1032-15
+(Reapproved 2019)
+Four wire torsion tests, in accordance with ASTM A938-18
+Four wire tensile tests, in accordance ASTM A370-20
+One cylinder tensile test in accordance with ASTM A370-20
+Figure 1,  78" PCCP Pipe Segment that failed on 6-5-
+2024 (photo provided by Josh Greenberg
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 515]
+Table 1 shows the specific tests that were conducted on each specimen supplied by Pure.  The number
+corresponding to each test is the RJPA Specimen number that was assigned to the individual test
+sample.
+Table 1.  Failed pipe segment specimen ID numbers and origin
+8-GAGE WIRE
+SAMPLES FROM PURE
+TENSILE TORSION
+HE
+SENSITIVITY
+Broken Wire 1
+Not used for testing
+Broken Wire 2
+1559
+1558
+Broken Wire 3
+1560
+Broken Wire 4
+1562
+1561
+Broken Wire 5
+1563
+Broken Wire 6
+Not used for testing
+Good Wire 1
+1554
+1553
+1552
+Good Wire 2
+1557
+1556
+1555
+Cylinder Plate
+1564
+In addition to the wires from the failed pipe segment, Pure also sent two additional sets of prestressing
+wires and cylinder samples.  These sample sets were received on 7-3-2024 and were labeled by Pure as
+PRN 20095 and PRN 20219.
+Figure 2,  78" PCCP pipe segment 20095
+(photo provided by Josh Greenberg
+Figure 3,  78" PCCP pipe segment 20219
+(photo provided by Josh Greenberg
+According to Pure, PRN 20095 (Figure 2) was identified by internal electromagnetic scanning to have
+an estimated 50 broken wire wraps.  As one of the distressed pipes with a higher number of broken
+wire wraps, it was selected for further investigation and potential repair.  External electromagnetic
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 516]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 3
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+scanning estimated there were 121 broken wire wraps on this pipe.  This pipe segment contained 8-
+gage prestressing wires.
+PRN 20219 (Figure 3) was identified by internal electromagnetic scanning to have an estimated 60
+broken wire wraps from internal electromagnetic scanning.  External scanning estimated there were
+227 broken wire wraps.  This pipe segment contained larger, 6-gage prestressing wires.
+The laboratory tests requested by Pure for the specimens from each additional pipe included:
+Two wire hydrogen embrittlement sensitivity tests, in accordance with ASTM A1032-15
+(Reapproved 2019)
+Two wire torsion tests, in accordance with ASTM A938-18
+Two wire tensile tests, in accordance ASTM A370-20
+Two cylinder tensile tests, one of the base metal and one with the weld in the gage section of the
+tensile specimen, in accordance with ASTM A370-20
+Table 2 shows the specific tests that were conducted on the additional specimens supplied by Pure.
+The number corresponding to each test is the RJPA Specimen number that was assigned to the
+individual test sample.
+Table 2.  Additional pipe segment specimen ID numbers
+ID FROM
+PURE
+MATERIAL
+TENSILE TORSION
+HE
+SENSITIVITY
+Pipe 20095
+8 Gage Wires
+1586
+1584
+1582
+1587
+1585
+1583
+Plate (Base Metal)
+1590
+Plate (With Weld)
+1591
+Pipe 20219
+6 Gage Wires
+1580
+1578
+1576
+1581
+1579
+1577
+Plate (Base Metal)
+1588
+Plate (With Weld)
+1589
+The specific location of the pipe segments included in this report are shown in Figure 4 through Figure
+6.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 517]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 4
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 4.  Location of failed pipe (photo provided by Josh Greenberg)
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 518]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 5
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 5.  Location of Pipe 20095 (photo provided by Josh Greenberg)
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 519]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 6
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 6.  Location of Pipe 20219 (photo provided by Josh Greenberg)
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 520]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 7
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+DESIGN STANDARDS AT THE TIME OF MANUFACTURE
+Since the City of Calgary Bearspaw Water Supply Pipeline plans provided by Pure were dated April
+1974, the design would likely have conformed to ASTM A227-71.  According to the AWWA c301-72
+specification, wire for circumferential reinforcement was required to conform to ASTM A227 except
+wires with higher tensile strengths than those listed in A227 could be used if they met the other
+requirements of A227.  ASTM A227-71 listed Class I and Class II options for both 8-gage (0.162-inch)
+and 6-gage (0.192-inch) diameter wires.
+8-gage Class I wire had a minimum tensile strength of 200,000 psi and a maximum tensile strength of
+230,000 psi. Class II wire had a minimum tensile strength of 231,000 psi and a maximum tensile
+strength of 261,000 psi.
+6-gage Class I wire had a minimum tensile strength of 192,000 psi and a maximum tensile strength of
+221,000 psi. Class II wire had a minimum tensile strength of 222,000 psi and a maximum tensile
+strength of 251,000 psi.
+AWWA c301-72 required steel for cylinders to meet the requirements of the ASTM A415
+(Specification for Hot-Rolled Carbon Steel Sheets, Commercial Quality), except that the maximum
+carbon content may be 0.25 per cent and the minimum yield point shall be 27,000 psi.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 521]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 8
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+WIRE TENSILE TEST METHOD RESULTS
+Tensile properties of the wire specimens were determined according to procedures specified in ASTM
+A370-20, Standard Methods and Definitions for Mechanical Testing of Steel Products .  A 16-inch
+overall length, 10-inch gage length specimen was tested for determination of ultimate tensile strength
+and reduction-in-area ductility of the wire.  Tensile test results are reported in Table 3, and a photo of
+each failed specimen is shown in Figure 7 through Figure 14.
+Table 3.  Wire tensile test results
+WIRE TENSION TEST RESULTS
+PRESTRESSING WIRE FROM BEARSPAW 78 INCH PCCP
+FEEDERMAIN IN CALGARY, ALBERT
+RJPA
+Number
+Wire
+Specimen
+Max
+Load
+(lbf)
+Ultimate
+Tensile
+(ksi)
+Initial
+Diameter
+(in.)
+Elong.
+in 10 in.
+(%)
+Reduction
+in Area
+(%)
+Failed
+Pipe
+(8-gage)
+1554 
+Good Wire 1  
+5,621 
+272.7 
+0.162 
+0.26% 
+21.0%
+1557 
+Good Wire 2  
+5,548 
+269.2 
+0.162 
+1.67% 
+39.5%
+1560 
+Broken Wire 3  5,309 
+257.6 
+0.162 
+0.15% 
+21.0%
+1563 
+Broken Wire 5  4,856 
+235.6 
+0.162 
+0.22% 
+14.3%
+Averages:
+5,334
+258.8
+0.162
+0.58%
+23.9%
+Pipe
+20095
+(8-gage)
+1586 
+20095 Tensile 1 5,667 
+274.9 
+0.162 
+1.76% 
+45.1%
+1587 
+20095 Tensile 2 5,677 
+275.4 
+0.162 
+1.61% 
+46.9%
+Averages:
+5,672
+275.2
+0.162
+1.69%
+46.0%
+Pipe
+20219
+(6-gage)
+1580 
+20219 Tensile 1 7,558 
+263.8 
+0.191 
+2.06% 
+40.0%
+1581 
+20219 Tensile 2 7,507 
+262.0 
+0.191 
+0.95% 
+39.1%
+Averages:
+7,533
+262.9
+0.191
+1.51%
+39.6%
+Tensile Results of 8-Gage Wires from the Failed Pipe
+Tensile Specimen 1557 (from Good Wire 2) failed in a ductile cup-cone manner (Figure 8).  The
+ultimate tensile strength of this specimen, calculated from the peak breaking load and wire cross-
+sectional area, was 269.2 ksi.  This stress is greater than the maximum value listed for 8-gage Class II
+wire in ASTM A227-71 and would make it a Class III wire according to ASTM A648-72.  Note, the
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 522]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 9
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+AWWA c301-64 specification allowed for wires with higher tensile strengths than those listed in A227
+to be used if they met the other requirements of A227.  ASTM A648-72 (which was likely being
+written when the subject pipe was manufactured) listed 8-gage Class III wire as having a minimum
+tensile strength of 262 ksi, and 6-gage Class III wire as having a minimum tensile strength of 252 ksi.
+The remaining three wires from the failed pipe segment had less ductile failures.  Specimen 1554
+(from Good Wire 1) and Specimen 1560 (from Broken Wire 3) each contained a pre-existing
+longitudinal split that prevented these specimens from achieving a full cup-cone failure.  The oxidized
+surfaces of this split can be seen in Figure 7 (Good Wire 1) and Figure 9 (Broken Wire 3).
+Specimen 1563 from Broken Wire 5 failed at a much lower stress of 235.6 ksi due to a pre-existing
+transverse crack (Figure 10) and failed in a non-ductile manner.  The oxidized area due to a transverse
+crack within the break location is clearly visible in Figure 10.  Because of the extensive corrosion of
+this wire, it is unclear if the transverse crack was initiated by HE or by pitting.
+There were no reduction-in-area (RA) ductility requirements specified in ASTM A227, and none were
+provided in ASTM A648 until the 1984 revisions.  ASTM A648-84 required a minimum RA of 30%.
+ASTM A648-18 requires a minimum RA of 35% for 6-gage wire and 30% for all larger diameters.
+Tensile Specimen 1557 (Good Wire 2) had a RA of 39.5% and would meet contemporary ductility
+standards for 6-gage wire (ASTM A648-18 no longer includes 8-gage wire).
+Specimen 1554 (from Good Wire 1) and Specimen 1560 (from Broken Wire 3) each had lower RA
+values of 21.0% due to the presence of the longitudinal split, while Specimen 1563 (from Broken Wire
+5) had a RA of only 14.3% due to the pre-existing transverse crack.
+Tensile Results of 8-Gage Wires from Pipe 20095
+Both tensile tests of the 8-gage wires from Pipe 20095 failed in a ductile cup-cone manner (Figure 11
+and Figure 12) with an average tensile strength of 275.2 ksi, indicating the wire was a Class III wire
+according to ASTM A648-72.  Additionally, the average RA of 46.0% would meet contemporary
+ductility requirements.
+Tensile Results of 6-Gage Wires from Pipe 20219
+Both tensile tests of the 6-gage wires from Pipe 20219 failed in a ductile cup-cone manner (Figure 13
+and Figure 14) with an average tensile strength of 262.9 ksi, indicating the wire was a Class III wire
+according to ASTM A648-72.  Additionally, the average RA of 39.6% would meet contemporary
+ductility requirements.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 523]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 10
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 7.  Photo showing semi-ductile tensile failure of the Specimen 1554 from Good Wire 1.  A pre-
+existing longitiudinal split with oxidized internal surfaces can be seen
+Figure 8.  Photo showing ductile tensile failure of Specimen 1557 from Good Wire 2.
+Figure 9.  Photo showing semi-ductile tensile failure of the Specimen 1560 from Broken Wire 3.  A
+pre-existing longitiudinal split with oxidized internal surfaces can be seen
+Figure 10.  Photo showing non-ductile tensile failure of the Specimen 1563 from Broken Wire 5.
+Oxidation at a pre-existing transversewire crack is evident.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 524]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 11
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 11.  Photo showing ductile tensile failure of the Specimen 1586 (Pipe 20095)
+Figure 12.  Photo showing ductile tensile failure of the Specimen 1587 (Pipe 20095)
+Figure 13.  Photo showing ductile tensile failure of the Specimen 1580 (Pipe 20219)
+Figure 14.  Photo showing ductile tensile failure of Specimen 1581 (Pipe 20219)
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 525]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 12
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+TORSION TEST METHOD AND RESULTS
+There never were torsion test requirements for prestressing wire in ASTM A227.  Additionally, none
+were incorporated into ASTM A648 until the 1988 revisions, and this same revision eliminated 8-gage
+wire.  However, the torsion test is an excellent method for identifying wire that has been drawn at
+excessive temperatures subjecting it to the effects of dynamic strain aging (DSA).
+Torsion tests are performed by RJPA according to the contemporary test method specified in ASTM
+A938-18, Standard Method for Torsion Testing of Wire.  In addition to the basic requirements in the
+standard, RJPA conducts the torsion test on a modified machine lathe incorporating a data acquisition
+system for continuous recording of revolutions and torque.
+As allowed in Section 6.3 (End Preparation) of ASTM A938-18, the ends of the torsion specimen are
+bent approximately 90° to the axis of the test specimen to prevent the gripped ends from slipping
+during the test.
+Torsion test results are listed in Table 4 and the torque-versus-rotation graphs for these same tests are
+plotted in Figure 19 (wires from the failed pipe segment) and Figure 24 (wires from two additional
+segments).  Photos documenting the torsion failures of the 8-gage wires from the failed pipe segment
+are shown in Figure 15 through Figure 18.  Photos documenting the torsion failures of the 8-gage wires
+from Pipe 20095 are shown in Figure 20 and Figure 21.  Photos documenting the torsion failures of the
+6-gage wires from Pipe 20219 are shown in Figure 22 and Figure 23.
+Torsion Results of 8-Gage Wires from Failed Pipe
+From Table 4, all four wires from the failed pipe segment had poor torsional performance, failing in a
+splitty manner between 0.49 and 7.97 revolutions.  Therefore, this wire would not meet the current 10-
+revolution torsional requirement without any splitting failures for ASTM A648 6-gage wire, and the
+torsion test confirms that the wire was likely subjected to DSA at the time of manufacture.
+From Table 4, the maximum torque for Specimen 1556 (Good Wire 2) is significantly higher than the
+maximum torque for the other three wires from the failed pipe segment.  The reason for this is because
+the other three wires had pre-existing longitudinal splits prior to testing, as evidenced by the oxidized
+surface of the split that became evident while testing (refer to Figure 15, Figure 17 and Figure 18), but
+Specimen 1556 did not contain a pre-existing split.  Instead, Specimen 1556 split during the torsion
+test, after approximately 0.7 revolutions.  This longitudinal splitting is further evidence of excessive
+heating of the wire during the manufacturing process, which can result in excessive residual tensile
+stresses upon cooling.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 526]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 13
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Table 4.  Wire torsion test results
+TORSION TEST RESULTS
+PRESTRESSING WIRE FROM BEARSPAW 78 INCH
+PCCP FEEDERMAIN IN CALGARY, ALBERT
+RJPA
+Number
+Wire
+Specimen
+Max. Torque
+(lb-in)
+Revolutions
+to Fracture
+Failure Mode
+Failed
+Pipe
+(8-gage)
+1553 
+Good Wire 1
+100.4
+5.76
+Spiral Split
+1556 
+Good Wire 2
+142.7
+5.10
+Spiral Split
+1559 
+Broken Wire 2
+105.7
+7.97
+Spiral Split
+1562 
+Broken Wire 4
+73.4
+0.49
+Split and Rupture
+Averages:
+105.6
+4.83
+Pipe
+20095
+(8-gage)
+1584 
+20095 Torsion 1
+177.6
+11.35
+Split then Shear
+1585 
+20095 Torsion 2
+171.6
+11.16
+Split then Shear
+Averages:
+174.6
+11.26
+Pipe
+20219
+(6-gage)
+1578 
+20219 Torsion 1
+250.2
+8.12
+Split then Primarily Shear
+1579 
+20219 Torsion 2
+240.7
+7.20
+Spiral Split
+Averages:
+245.5
+7.66
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 527]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 14
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 15.  Photo showing torsion failure of the Specimen 1553 (Good Wire 1).  The oxidized surface
+of the pre-existing crack can clearly be seen.
+Figure 16.  Photos showing torsion failure of the Specimen 1556 (Good Wire 2).
+Figure 17.  Photo showing torsion failure of the Specimen 1559 (Broken Wire 2).  Picture on the
+right shows the opposite end of the wire where the oxidized surface of the pre-existing crack can
+clearly be seen.
+Figure 18.  Photo showing torsion failure of Specimen 1562 (Broken Wire 4).  The oxidized surface of
+the pre-existing crack can clearly be seen.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 528]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 15
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 19.  Torque-versus-rotation graphs for the 8-gage wires extracted from the failed pipe segment
+Torsion Results of 8-Gage Wires from Pipe 20095
+From Table 4, both wires from Pipe 20095 withstood more than 11 revolutions prior to failure.
+However, from Figure 20 and Figure 21, each of these wires had a pre-existing longitudinal split that
+opened during the torsion test.  Therefore, these wires would not meet the current 10-revolution
+torsional requirement without any splitting failures for ASTM A648 6-gage wire, and the torsion test
+confirms that the wire was likely subjected to DSA at the time of manufacture.
+Torsion Results of 6-Gage Wires from Pipe 20219
+From Table 4 and Figure 24, both wires split at approximately 0.7 revolutions, and then kept rotating
+prior to failing after more than 7 revolutions.  Therefore, these wires would not meet the current 10-
+revolution torsional requirement without any splitting failures for ASTM A648 6-gage wire, and the
+torsion test confirms that the wire was likely subjected to DSA at the time of manufacture.
+Longitudinal Split
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 529]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 16
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 20.  Photo showing torsion failure of the Specimen 1584 (Pipe 20095).  The oxidized surface of
+the pre-existing crack can clearly be seen.
+Figure 21.  Photo showing torsion failure of the Specimen 1585 (Pipe 20095).  The oxidized surface of
+the pre-existing crack can clearly be seen.
+Figure 22.  Photo showing torsion failure of the Specimen 1578 (Pipe 20219)
+Figure 23.  Photo showing torsion failure of Specimen 1579 (Pipe 20219)
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 530]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 17
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 24. Torque-versus-rotation graphs for the wires extracted from two additional pipe segments
+Longitudinal Split
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 531]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 18
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+HYDROGEN EMBRITTLEMENT (HE) SENSITIVITY TEST METHOD AND RESULTS
+The European Federation Internationale de la Precontrainte (FIP) developed a laboratory test during
+the late 1960's and early 1970's for evaluation of the hydrogen embrittlement (HE) sensitivity of PCCP
+prestressing wire. A recommended procedure for performing the test was published by the organization
+in 1980 that is most often referred to as the FIP ammonium thiocyanate test. Lewis Engineering and
+Consulting, Inc. (LEC) constructed a dedicated test system in 1990 for performing the FIP test in
+accordance with the recommended procedure in support of forensic investigations of PCCP failures.
+Based upon test data acquired by LEC between 1990 and 2002 on prestressing wire manufactured
+between the mid-1950's to 2002, a presentation was made by LEC to the ASTM A01.05 Wire Products
+Task Group subcommittee proposing the development of an ASTM standard for the test.  The result
+was the ASTM A1032-04 test procedure published by ASTM in September 2004, Standard Test
+Method for Hydrogen Embrittlement Resistance for Steel Wire Hard Drawn Used for Prestressing
+Concrete Pipe. Supplementary Requirements were added concurrently to ASTM A648-04a addressing
+the use of A1032-04 in purchase order specifications for contemporary pipe wrap wire. RJPA
+purchased the HE tests system from LEC in November 2019 and now conducts HE tests in accordance
+with the latest revision of the standard, A1032-15 (Reapproved 2019).
+A 16-inch-long Specimen of hand-straightened wire is prepared for the HE test. The wire straightened
+specimens are fitted and sealed into a Pyrex T-shaped test cell that will be filled with a 20 percent (by
+weight) ammonium thiocyanate solution. The wire specimens are loaded in tension at a force
+equivalent to 70% of the specified minimum tensile strength. A resistance heating coil wrapped around
+the outside of the test cell and connected to a proportioning temperature controller is employed to heat
+the solution within the cell to 50 C and maintain that temperature for the duration of the test. A switch
+activated relay stops the timer upon failure and records the time-to-failure (TTF) to the nearest 0.01
+hours. Test Specimens are removed at failure, or after 100 hours if no failure occurs.
+Based upon the extensive experience with the HE sensitivity test method by Richard Lewis at LEC,
+wire that exhibits practically no HE sensitivity will consistently survive the test for 75 hours or more.
+An increasing degree of HE sensitivity is indicated by failure times progressively less than 75 hours. A
+slight-to-moderate HE sensitivity is indicated by a time-to-failure (TTF) of approximately 50 hours,
+and a significant HE sensitivity is indicated for TTF less than 20 hours.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 532]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 19
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Since the tensile test results indicated both the 8-gage and 6-gage wires in this investigation were Class
+III wire according to ASTM A648-72, the 8-gage specimens were loaded to a tension equal to 70% of
+the ASTM A648-72 Class III specified minimum tensile strength (0.7 x
+x 262,000 psi =
+3,781 pounds).  Similarly, the 6-gage specimens were loaded to a tension equal to 70% of the ASTM
+A648-72 Class III specified minimum tensile strength (0.7 x
+x 252,000 psi = 5,110
+pounds).  The time-to-failure (TTF) recorded for each of the wire specimens supplied by Pure are
+shown in Table 5.
+Table 5.  Hydrogen embrittlement test results
+HYDROGEN EMBRITTLEMENT SENSITIVITY TEST RESULTS
+PRESTRESSING WIRE FROM BEARSPAW 78 INCH
+ PCCP FEEDERMAIN IN CALGARY, ALBERT
+RJPA
+Number
+Wire
+Specimen
+Time to
+Failure
+ (hours)
+Comments
+Failed
+Pipe
+(8-gage)
+1552 
+Good Wire 1
+50.94
+Brittle Fracture with Split
+1555 
+Good Wire 2
+3.88
+Brittle Fracture with Split
+1558 
+Broken Wire 2
+6.54
+Brittle Fracture with Split
+1561 
+Broken Wire 3
+3.27
+Brittle Fracture with Split
+Averages:
+16.16
+Pipe
+20095
+(8-gage)
+1582
+20095 HE 1
+2.87
+Brittle Fracture with Split
+1583
+20095 HE 2
+4.15
+Brittle Fracture with Split
+Averages:
+3.51
+Pipe
+20219
+(6-gage)
+1576
+20219 HE 1
+116+
+Did Not Fail
+1577
+20219 HE 2
+116+
+Did Not Fail
+Averages:
+116+
+* 8 Gage Class III wire specimens were tested at 3,780 lbf tensile force (equivalent to 70% of specified
+minimum ultimate tensile strength (UTS) of 262,000 psi).
+* 6 Gage Class III wire specimens were tested at 5,110 lbf tensile force (equivalent to 70% of specified
+minimum ultimate tensile strength (UTS) of 192,000 psi).
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 533]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 20
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+HE Results of 8-Gage Wires from Failed Pipe
+The time-to-failure (TTF) recorded for the four 8-gage wire specimens from the failed pipe ranged
+from 3.27 hours to 50.94 hours, with an average of 16.16 hours.  Moreover, three of the four specimens
+had a TTF less than 7 hours.  This indicates that the wire from the failed pipe segment has a significant
+HE sensitivity, which is consistent with the poor torsional performance.  The HE fractures of all four
+specimens from the failed pipe included longitudinal splitting of the wire.
+HE Results of 8-Gage Wires from Pipe 20095
+The time-to-failure (TTF) recorded for the two 8-gage wire specimens from the Pipe 20095 were 2.87
+hours and 4.15 hours, averaging 3.51 hours.  This indicates that the wire has a significant HE
+sensitivity, which is also consistent with the poor torsional performance.  The fractures of both
+specimens from Pipe 20095 included longitudinal splitting of the wire.
+HE Results of 6-Gage Wires from Pipe 20219
+The two 6-gage wire specimens from the Pipe 20219 withstood more than 116 hours of HE exposure
+testing without failing.  This surpasses the current 75-hour TTF requirement of ASTM A648-18 and
+indicates that these wires have practically no HE sensitivity.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 534]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 21
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 25.  Photo showing brittle failure of HE Specimen 1552 from Good Wire 1.
+Figure 26.  Photo showing brittle failure of HE Specimen 1557 from Good Wire 2.
+Figure 27.  Photo showing brittle failure of HE Specimen 1558 from Broken Wire 2. The longitiudinal
+split is visible in this photo.
+Figure 28.  Photo showing brittle failure of HE Specimen 1561 from Broken Wire 3.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 535]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 22
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 29.  Photo showing brittle failure of HE Specimen 1582 (Pipe 20095)
+Figure 30.  Photo showing brittle failure of HE Specimen 1583 (Pipe 20095). A longitiudinal split is
+visible in this photo.
+Figure 31.  Photo showing HE Specimen 1576 (Pipe 20219) after 116 hours of exposure
+Figure 32.  Photo showing HE Specimen 1577 (Pipe 20219) after 116 hours of exposure
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 536]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 23
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+STEEL CYLINDER TENSILE TEST RESULTS
+The relatively clean specimens of 16-gage steel cylinder provided by Pure were suitable for
+mechanical property testing.  Both surfaces of the each cylinder specimen were dark gray in color with
+areas of residual cementitious deposits and light rusting.  The cylinder specimen from the failed pipe
+segment provided by Pure did not contain a weld, so a single specimen of this base metal was prepared
+for testing.  The cylinder specimens from Pipe 20095 and Pipe 20219 each contained a weld and were
+selected for the preparation of two tensile specimens, one of the base metal and one containing the
+weld within the machined gage length of the test specimen.
+Cylinder tensile test specimens were prepared in a dog-bone configuration compliant with the
+requirements and specifications for testing of steel product in ASTM A370.  The results of the tensile
+tests for the base metal and with-weld test specimens are shown in Table 6.
+Table 6.  Steel cylinder tensile test results
+STEEL PLATE TENSION TEST RESULTS
+STEEL CYLINDER FROM BEARSPAW 78 INCH PCCP FEEDERMAIN IN
+CALGARY, ALBERT
+RJPA
+Number
+Specimen
+Max
+Load
+(lbf)
+Ultimate
+Tensile
+(ksi)
+Thickness
+(in.)
+Width
+(in.)
+Yield
+Strength
+(ksi)
+Tensile
+Elongation
+ (%)
+Failed Pipe 
+1564 
+Base Metal 
+1,757
+55.12
+0.062
+0.514
+45.94
+28.5
+Pipe
+20095
+1590 
+Base Metal 
+1,916
+61.97
+0.061
+0.507
+53.77
+29.2
+1591 
+With Weld 
+1,640
+52.93
+0.061
+0.508
+39.13
+11.5
+Pipe
+20219
+1588 
+Base Metal 
+1,822
+57.62
+0.062
+0.510
+49.34
+21.5
+1589 
+With Weld 
+1,897
+60.35
+0.062
+0.507
+36.73
+15.0
+Cylinder Plate Results from Failed Pipe
+The base metal specimen had an ultimate tensile strength of 55.12 ksi and a yield strength of 45.94 ksi.
+Furthermore, AWWA C301-64 required the minimum yield strength of the steel cylinder to be at least
+27,000 psi, and the steel cylinder from the failed pipe met this requirement.  Figure 33 shows the
+mating tensile fractures of the steel cylinder specimen from the failed pipe.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 537]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 24
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Cylinder Plate Results from Pipe 20095
+The base metal specimen from Pipe 20095 had an ultimate tensile strength of 61.97 ksi and a yield
+strength of 53.77 ksi.  The ratio of yield strength to tensile strength (87%) is consistent with the
+requirements for hot-rolled steel, and the yield strength met the 27,000 psi minimum requirement of
+AWWA C301-64.
+The tensile strength of the specimen containing the weld was 52.93 ksi and the yield strength was
+39.13 ksi.  The 14.6% reductions in tensile strength (from 61.97 ksi to 52.93 ksi) and 27.2% reduction
+in yield strength (from 53.77 ksi to 39.13 ksi) for the section containing the weld are both higher than
+expected for properly welded hot-rolled sections and may be indicative of excessive heat during the
+welding process.  Still, the post-weld yield strength is well above the 27,000 psi minimum requirement
+of AWWA C301-64 and indicative that a sufficient weld was achieved.  Figure 34 shows the mating
+tensile fractures of the base specimen.  The mating tensile fractures of the specimen containing the
+weld are shown in Figure 35.
+Cylinder Plate Results from Pipe 20219
+The base metal specimen from Pipe 20219 had an ultimate tensile strength of 57.62 ksi and a yield
+strength of 49.34 ksi.  The ratio of yield strength to tensile strength (86%) is consistent with the
+requirements for hot-rolled steel, and the yield strength met the 27,000 psi minimum requirement of
+AWWA C301-64.
+The tensile strength of the specimen containing the weld was 60.35 ksi and the yield strength was
+37.73 ksi.  In this case, the section containing the weld had a slightly higher ultimate tensile strength.
+The reason for this is unknown.  The post-weld yield strength of 37.73 ksi is well above the 27,000 psi
+minimum requirement of AWWA C301-64 and indicative that a sufficient weld was achieved.
+Figure 33  Tensile failure of steel cylinder Specimen 1564 from failed pipe (no weld)
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 538]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 25
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Figure 34. Tensile failure of steel cylinder Specimen 1590 from Pipe 20095 (no weld)
+Figure 35. Tensile failure of steel cylinder Specimen 1591 from Pipe 20095 (with weld)
+Figure 36. Tensile failure of steel cylinder Specimen 1588 from Pipe 20219 (no weld)
+Figure 37. Tensile failure of steel cylinder Specimen 1589 from Pipe 20219 (with weld)
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 539]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 26
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+DISCUSSION AND CONCLUSIONS
+Failed Pipe
+The tensile strength of the two 8-gage prestressing wires that were labeled
+271.0 ksi,
+making the wire a Class III wire according to ASTM A648-72.  Two of the
+-existing longitudinal split that became evident after
+tensile failure.
+Wires from the broken pipe also had very poor torsional ductility.  Three of the torsion specimens had
+a pre-existing longitudinal split and a fourth torsion specimen developed a longitudinal split with less
+than one full revolution.  This indicates that the wire was likely drawn at a high temperature resulting
+in dynamic strain aging (DSA).  The prevalence of longitudinal splitting is also consistent with high
+drawing temperatures.
+HE exposure testing of four wires from this same pipe revealed that the wire had a significant HE
+sensitivity, with an average TTF of 16.16 hours.  Furthermore, three of the four wires had a TTF of
+less than 7 hours.
+A tensile test of the steel cylinder indicated that the steel still meets the minimum yield strength
+requirement that was in place at the time of manufacture.
+Therefore, the 8-gage wire samples provided by Pure from the failed pipe segment are in overall poor
+condition, and it is likely that hydrogen embrittlement of the prestressing wires contributed to the
+failure of the pipe.
+Pipe 20095
+The tensile strength of the two 8-gage prestressing wires from Pipe 20095 averaged 275.2 ksi, making
+the wire a Class III wire according to ASTM A648-72.  The two wires also had excellent ductility with
+a RA averaging 46.0%.
+Wires from Pipe 20095 had very poor torsional ductility.  The two torsion specimens had a pre-
+existing longitudinal split but were still able to rotate more than 11 revolutions prior to failing in shear.
+This presence of the pre-existing longitudinal split indicates that the wire was likely drawn at a high
+temperature resulting in dynamic strain aging (DSA).
+HE exposure testing of two wires from this same pipe revealed that the wire had a significant HE
+sensitivity, with an average TTF of 3.51 hours.
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 540]
+REPORT OF FINDINGS: LABORATORY EVALUATION OF PCCP PRESTRESSING
+Page 27
+WIRE AND STEEL CYLINDER EXTRACTED FROM THE BEARSPAW FEEDERMAIN
+IN CALGARY, ALBERTA CONDUCTED FOR PURE TECHNOLOGIES
+Two tensile tests of the steel cylinder (one with and one without a weld in the gage length) indicated
+that the cylinder met the minimum tensile requirement at the time of manufacture and that a sufficient
+weld was achieved.
+Pipe 20219
+The tensile strength of the two 6-gage prestressing wires from Pipe 20219 averaged 262.9 ksi, making
+the wire a Class III wire according to ASTM A648-72.  The two wires also had excellent ductility with
+an RA averaging 39.6 (which would meet contemporary standards for 6-gage Class III wire).
+Wires from the Pipe 20219 had very poor torsional ductility.  Both torsion specimens developed a
+longitudinal split at less than one revolution, with one specimen failing in a splitty manner and the
+other failing primarily in shear.  Both specimens exceeded 7 revolutions before failure.  This
+longitudinal splitting indicates that the wire was likely drawn at a high temperature resulting in
+dynamic strain aging (DSA).
+Two wires from this same pipe did not split or fail after more than 116 hours of HE exposure testing.
+These excellent HE test results are remarkable, especially since the wire had poor torsional
+performance as exhibited by longitudinal splitting of the wire at less than one revolution during the
+torsion test.  The reason for this apparent inconsistency is unknown.
+Two tensile tests of the steel cylinder (one with and one without a weld in the gage length) indicated
+that the cylinder met the minimum tensile requirement at the time of manufacture and that a sufficient
+weld was achieved.
+Prepared and submitted by:
+________________________________
+Robert J. Peterman, Ph.D., PE, F.PCI
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 541]
+Appendix B
+Tensile Test Reports
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 542]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 543]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 544]
+Appendix B
+Tensile Test Reports
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 545]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/1/2024 
+Info: Calgary, AB, Good 1 Wire
+Sample ID:
+1554
+Direction: Longitudinal
+Measure Dia:
+0.162 in
+Location:
+Calculated Area:
+0.0206 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.026
+Elongation:
+0.26%
+Modulus:
+29.1 Mpsi
+2% Offset Yield
+4,792 lb
+2% Offset Stress
+232,501 psi
+Ultimate Load:
+5,621 lb
+Ultimate Stress:
+272,728 psi
+Area Reduction
+20.99%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+538
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 546]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/1/2024 
+Info: Calgary, AB, Good 2 Wire
+Sample ID:
+1557
+Direction: Longitudinal
+Measure Dia:
+0.162 in
+Location:
+Calculated Area:
+0.0206 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.167
+Elongation:
+1.67%
+Modulus:
+25.1 Mpsi
+2% Offset Yield
+4,548 lb
+2% Offset Stress
+220,663 psi
+Ultimate Load:
+5,548 lb
+Ultimate Stress:
+269,179 psi
+Area Reduction
+39.51%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+3.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+539
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 547]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/1/2024 
+Info: Calgary, AB, Broke 3 Wire
+Sample ID:
+1560
+Direction: Longitudinal
+Measure Dia:
+0.162 in
+Location:
+Calculated Area:
+0.0206 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.015
+Elongation:
+0.15%
+Modulus:
+28.7 Mpsi
+2% Offset Yield
+4,793 lb
+2% Offset Stress
+232,539 psi
+Ultimate Load:
+5,309 lb
+Ultimate Stress:
+257,555 psi
+Area Reduction
+20.99%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.2%
+0.4%
+0.6%
+0.8%
+1.0%
+1.2%
+1.4%
+1.6%
+1.8%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+540
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 548]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/1/2024 
+Info: Calgary, AB, Broke 5 Wire
+Sample ID:
+1563
+Direction: Longitudinal
+Measure Dia:
+0.162 in
+Location:
+Calculated Area:
+0.0206 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.022
+Elongation:
+0.22%
+Modulus:
+28.2 Mpsi
+2% Offset Yield
+4,327 lb
+2% Offset Stress
+209,912 psi
+Ultimate Load:
+4,856 lb
+Ultimate Stress:
+235,578 psi
+Area Reduction
+14.27%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.2%
+0.4%
+0.6%
+0.8%
+1.0%
+1.2%
+1.4%
+1.6%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+541
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 549]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: PCCP Plate
+Date  7/1/2024 
+Info: Calgary, AB Plate Tensile, Received 6-21-24
+Sample ID:
+1564
+Direction: Longitudinal
+Measure Width:
+0.514 in
+Location:
+Measured Thickness:
+0.062 in
+Calculated Area:
+0.0319 in2
+Initial Gage Length:
+2.000
+Final Gage Length:
+2.569
+Elongation 2in Gage:
+28.5%
+Modulus:
+23.17 Mpsi
+2% Offset Yield
+1,464 lb
+2% Offset Stress
+45,943 psi
+Ultimate Load:
+1,757 lb
+Ultimate Stress:
+55,123 psi
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+542
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 550]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/23/2024
+Info: Pipe 20219 Tensile 1
+Sample ID:
+1580
+Direction: Longitudinal
+Measure Dia:
+0.191 in
+Location:
+Calculated Area:
+0.0287 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.206
+Elongation:
+2.06%
+Modulus:
+28.4 Mpsi
+2% Offset Yield
+6,235 lb
+2% Offset Stress
+217,621 psi
+Ultimate Load:
+7,558 lb
+Ultimate Stress:
+263,791 psi
+Area Reduction
+39.96%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+3.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+543
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 551]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/23/2024
+Info: Pipe 20219 Tensile 2
+Sample ID:
+1581
+Direction: Longitudinal
+Measure Dia:
+0.191 in
+Location:
+Calculated Area:
+0.0287 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.095
+Elongation:
+0.95%
+Modulus:
+28.2 Mpsi
+2% Offset Yield
+6,241 lb
+2% Offset Stress
+217,815 psi
+Ultimate Load:
+7,507 lb
+Ultimate Stress:
+262,010 psi
+Area Reduction
+39.14%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+544
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 552]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/23/2024
+Info: Pipe 20095 Tensile 1
+Sample ID:
+1586
+Direction: Longitudinal
+Measure Dia:
+0.162 in
+Location:
+Calculated Area:
+0.0206 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.176
+Elongation:
+1.76%
+Modulus:
+27.7 Mpsi
+2% Offset Yield
+5,289 lb
+2% Offset Stress
+256,616 psi
+Ultimate Load:
+5,667 lb
+Ultimate Stress:
+274,936 psi
+Area Reduction
+45.13%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+545
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 553]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: 16" 8ga A648 Wire
+Date  7/23/2024
+Info: Pipe 20095 Tensile 2
+Sample ID:
+1587
+Direction: Longitudinal
+Measure Dia:
+0.162 in
+Location:
+Calculated Area:
+0.0206 in2
+Initial Gage Length:
+10.000
+Final Gage Length:
+10.161
+Elongation:
+1.61%
+Modulus:
+28.0 Mpsi
+2% Offset Yield
+5,184 lb
+2% Offset Stress
+251,495 psi
+Ultimate Load:
+5,677 lb
+Ultimate Stress:
+275,419 psi
+Area Reduction
+46.94%
+0
+25,000
+50,000
+75,000
+100,000
+125,000
+150,000
+175,000
+200,000
+225,000
+250,000
+275,000
+300,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+3.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+546
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 554]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: PCCP Plate
+Date  7/31/2024
+Info: Calgary, AB Plate #20219 No Weld
+Sample ID:
+1588
+Direction: Longitudinal
+Measure Width:
+0.510 in
+Location:
+Measured Thickness:
+0.062 in
+Calculated Area:
+0.0316 in2
+Initial Gage Length:
+2.000
+Final Gage Length:
+2.429
+Elongation 2in Gage:
+21.45%
+Modulus:
+27.4 Mpsi
+2% Offset Yield
+1,560 lb
+2% Offset Stress
+49338 psi
+Ultimate Load:
+1,822 lb
+Ultimate Stress:
+57,622 psi
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+547
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 555]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: PCCP Plate
+Date  7/30/2024
+Info: Calgary, AB Plate #20219 With Weld
+Sample ID:
+1589
+Direction: Longitudinal
+Measure Width:
+0.507 in
+Location:
+Measured Thickness:
+0.062 in
+Calculated Area:
+0.0314 in2
+Initial Gage Length:
+2.000
+Final Gage Length:
+2.300
+Elongation 2in Gage:
+15.0%
+Modulus:
+24.17 Mpsi
+2% Offset Yield
+1,155 lb
+2% Offset Stress
+36,729 psi
+Ultimate Load:
+1,897 lb
+Ultimate Stress:
+60,347 psi
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+548
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 556]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: PCCP Plate
+Date  7/30/2024
+Info: Calgary, AB Plate #20095 No Weld
+Sample ID:
+1590
+Direction: Longitudinal
+Measure Width:
+0.507 in
+Location:
+Measured Thickness:
+0.061 in
+Calculated Area:
+0.0309 in2
+Initial Gage Length:
+2.000
+Final Gage Length:
+2.583
+Elongation 2in Gage:
+29.2%
+Modulus:
+27.73 Mpsi
+2% Offset Yield
+1,663 lb
+2% Offset Stress
+53,767 psi
+Ultimate Load:
+1,916 lb
+Ultimate Stress:
+61,968 psi
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+549
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

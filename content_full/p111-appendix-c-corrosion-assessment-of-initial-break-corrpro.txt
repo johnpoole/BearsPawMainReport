@@ -1,0 +1,164 @@
+Appendix C - Corrosion Assessment of Initial Break, Corrpro
+PAGES 111-115
+
+
+[PAGE 111]
+APPENDIX C - CORROSION ASSESSMENT OF INITIAL BREAK, 
+CORRPRO 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 112]
+Calgary Office 
+Suite 1920, 140 - 4 Avenue SW 
+Calgary, AB  T2P 3N3 
+403.235.6400 | www.CorrproCanada.com 
+ 
+TPL-083 Revision Date:  15JULY2022 
+JUNE 28, 2024 
+ 
+Duane Strayer 
+Associated Engineering 
+Suite 400 – 600 Crowfoot Crescent NW 
+Calgary, AB T3G 0B4 
+ 
+Ref:   
+Water Main Assessment 
+ 
+City of Calgary 
+ 
+Document No.: 0224-2825-ASE-RCA-001-0 
+ 
+INTRODUCTION 
+On June 7, 2024, Corrpro Canada, Inc. (Corrpro) was contracted by Associate Engineering to perform a corrosion 
+assessment on a water main break for the City of Calgary, located in the Montgomery neighborhood south of the Safeway 
+on 16 Avenue NW. The water main is a large diameter C 301 pipe which has a thin metal wall encased in concrete which 
+is reinforced by high-tension steel cables wrapped around the circumference of the pipe. Corrpro personnel Jeff Burton 
+P.Eng., AMPP CP2, performed an additional investigation on June 21, 2024. This report is an addendum to the previous 
+Corrpro report dated June 11, 2024. 
+SUMMARY OF OBSERVATIONS 
+June 21, 2024 
+The damaged pipe is a 1950 mm C 301, prestressed concrete pressure pipe, steel cylinder type. Three sections of the pipe 
+have been removed. The ends still in the ground on either side were tested for their AC and DC potentials. The amperage 
+was taken by connecting both ends of the still underground pipe segments. Resistance was measured at the west 
+upstream point of site A, and on the isolated pipe between site C and site D at the open site D end. 
+Pipe-to-soil DC potential was less negative than -302 mVCSE on all test sites, which is consistent for a steel structure with 
+no cathodic protection (CP) applied. The DC potential measured is below the -1000 mVCSE threshold of causing hydrogen 
+embrittlement, laid out by Sylvia Hall in 1998 form NACE paper 637, and therefore that risk is still deemed a non-issue. All 
+current connections tested were below 0.02 mV, which is very low, indicating no significant levels of stray current. The 
+pipe-to-soil resistance at site A was 28,000 Ω, indicating that section of pipe is unlikely to have any corrosive areas of any 
+significance. A pipe-to-soil resistance of 7 Ω measured on the segment between site C and site D indicate there may be 
+some small areas of corrosion on that segment. Test data can be found in ‘Table 1’ below. 
+ 
+ 
+105
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 113]
+Calgary Office 
+Suite 1920, 140 - 4 Avenue SW 
+Calgary, AB  T2P 3N3 
+403.235.6400 | www.CorrproCanada.com 
+ 
+TPL-083 Revision Date:  15JULY2022 
+Table 1: Field Measurements at PCCP Sites 
+Site 
+West Side AC 
+Potential 
+(mVCSE) 
+East Side AC 
+Potential 
+(mVCSE) 
+West Side DC 
+Potential 
+(mVCSE) 
+East Side DC 
+Potential 
+(mVCSE) 
+Measured 
+Potential 
+Difference 
+(W -> E) 
+Current 
+Between 
+Sections  
+(mA, W ->E) 
+A (LCBO – 46 Street) 
+98 
+90 
+-131 
+-162 
+290 
+0.02 
+C (Volker – 43 Street) 
+36 
+7 
+-158 
+-201 
+40 
+0.01 
+D (Volker – 43 Street) 
+115 
+153 
+-240 
+-302 
+60 
+0.01 
+ 
+There is a general trend of the DC potential being higher on the west side of the pipeline. This can also be attributed to 
+coincidental changes in soil conditions at the point of measurements. There was very little amperage measured between 
+sections, indicating no stray current in the area. We cannot rule out stray current pickup or discharge in the damaged and 
+removed sections of the pipe. 
+The highest AC potential measured between all sites was 153 mA, measured on the east side of site D. This amount of AC 
+voltage in the pipe is of no concern for corrosion, and additionally shows no AC interference within the pipes from the 
+downstream power lines, or any other source of AC. Additionally, the difference in potential of the in-ground pipe 
+segments of 210 mV from W -> E across site A, and 80 mV W -> E on site D, are not high enough to be of any concern. No 
+difference was taken across site C.  
+Soil resistivity was not taken at each of the sites. Sites previously tested in the area were found to have mild to highly 
+corrosive soil, and high chloride contents. The soil at each excavation was visibly similar for the area (6” river rock mix). 
+At site C, rust and corrosion was found on the concrete just below the tension cables as the top layer of concrete easily 
+broke away from the tension cables. This is an indicator that this area has been corroding before the break. Areas like 
+these exposed to the external environment can act as a localized corrosion points as well as discharge point for stray 
+current corrosion. 
+City of Calgary facility maps were provided for the immediate area of the break. Facility maps do not show any major 
+below grade steel structures, which would be necessary for stray current pickup or discharge. This does not mean that 
+stray current pickup or discharge cannot occur, as there may be unmapped steel structures underground.  
+Chloride Discussion 
+Corrpro has done a literature review on the effect of chlorides on PCCP pipes. A more detailed report will follow. 
+ 
+ 
+106
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 114]
+107
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+SIGN
+
+[PAGE 115]
+Calgary Office 
+Suite 1920, 140 - 4 Avenue SW 
+Calgary, AB  T2P 3N3 
+403.235.6400 | www.CorrproCanada.com 
+ 
+TPL-083 Revision Date:  15JULY2022 
+APPENDIX A - PHOTOS 
+ 
+Corroded tension cables under the top layer of concrete. 
+ 
+ 
+ 
+108
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

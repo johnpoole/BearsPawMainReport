@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Timeline — BearsPaw Main Report</title>
+  <link rel="stylesheet" href="../assets/style.css"/>
+</head>
+<body>
+  <div class="shell">
+    <nav class="nav">
+      <div class="brand">BearsPaw Main Report</div>
+      <small>Redesigned web presentation</small>
+      <ul><li><a href="../index.html">Overview</a></li>
+<li>→ <a href="timeline.html">Timeline</a></li>
+<li><a href="incident-repairs.html">Incident & Repairs</a></li>
+<li><a href="system-background.html">System Background</a></li>
+<li><a href="analyses.html">Analyses</a></li>
+<li><a href="findings.html">Findings</a></li>
+<li><a href="probable-cause.html">Probable Cause</a></li>
+<li><a href="appendices.html">Appendices</a></li></ul>
+    </nav>
+    <main class="main"><div class="content">
+      
+<h1>Timeline</h1>
+<p class="meta">Key milestones from the report, displayed as an interactive timeline.</p>
+
+<div class="callout">
+    <div id="timeline" class="timeline"></div>
+    <div id="timeline-tooltip" class="timeline-tooltip" style="display:none"></div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    const events = [{"date": "2024-06-05", "title": "June 5, 2024 — , the Bearspaw South Feedermain (BSFM) suffered a catastrophic failure.…", "description": "EXECUTIVE SUMMARY On June 5, 2024, the Bearspaw South Feedermain (BSFM) suffered a catastrophic failure. The BSFM is the most important feedermain in The City of Calgary’s (The City) potable water transmission network, consisting of 1950…", "sourcePage": 3}, {"date": "2024-06-05", "title": "June 5, 2024 — Rupture 7 3.2 Phase 1 Repairs 9 4 Pump Operations Summary 29 5 Finite El…", "description": "2.2 Design / Fabrication Details 5 2.3 Pressure Rating 5 2.4 AWWA Standards 6 3 Field Observations 7 3.1 June 5, 2024 Rupture 7 3.2 Phase 1 Repairs 9 4 Pump Operations Summary 29 5 Finite Element Analysis & Limit State Design 30 6 Electr…", "sourcePage": 4}, {"date": "2024-06-05", "title": "June 5, 2024 — , The City experienced a significant break on the BSFM. This feedermain…", "description": "and pipe distress will be provided, but this report is not intended to be a root cause analysis. 1.2 Background On June 5, 2024, The City experienced a significant break on the BSFM. This feedermain is the backbone of The City’s transmis…", "sourcePage": 9}, {"date": "2024-06-05", "title": "June 5, 2024 — Rupture Following work by The City crews to fully expose the ruptured pi…", "description": "3 FIELD OBSERVATIONS 3.1 June 5, 2024 Rupture Following work by The City crews to fully expose the ruptured pipe segment, representatives from The City (multiple departments), AE, Corrpro (subconsultant to AE providing corrosion assessme…", "sourcePage": 15}, {"date": "2024-06-05", "title": "June 5, 2024 — rupture. Tetra Tech’s report (in Appendix H) concluded that the mortar a…", "description": "tra Tech was retained by Pure to conduct laboratory analysis of the mortar and concrete core samples obtained from the June 5, 2024 rupture. Tetra Tech’s report (in Appendix H) concluded that the mortar and concrete used in the Class 16…", "sourcePage": 58}, {"date": "2024-06-05", "title": "June 5, 2024 — rupture was caused by the loss of structural integrity of the pipe, prim…", "description": "following conclusions can be made as to the probable cause of the distress in the exhumed and ruptured pipe: • The June 5, 2024 rupture was caused by the loss of structural integrity of the pipe, primarily through the failure of the pres…", "sourcePage": 62}];
+
+    (function renderTimeline() {
+        const root = document.getElementById('timeline');
+        const tooltip = document.getElementById('timeline-tooltip');
+        if (!root || !window.d3) return;
+
+        const fmt = d3.timeFormat('%b %d, %Y');
+        const norm = (events || []).map((e) => {
+            const dt = e.date ? new Date(e.date + 'T00:00:00') : null;
+            const when = e.when || (dt ? fmt(dt) : '');
+            return {
+                when,
+                title: e.title || '',
+                description: e.description || '',
+                sourceSection: e.sourceSection || e.sourceSectionTitle || 'Report',
+                sourcePage: e.sourcePage || '',
+                dt,
+            };
+        });
+
+        const data = norm
+            .slice()
+            .sort((a, b) => {
+                if (a.dt && b.dt) return a.dt - b.dt;
+                if (a.dt && !b.dt) return -1;
+                if (!a.dt && b.dt) return 1;
+                return 0;
+            });
+
+        if (!data.length) {
+            root.innerHTML = '<p>No events found for the timeline.</p>';
+            return;
+        }
+
+        const margin = {top: 18, right: 18, bottom: 18, left: 26};
+        const rowH = 44;
+        const width = Math.max(720, root.clientWidth || 720);
+        const height = margin.top + margin.bottom + (rowH * (data.length - 1)) + 20;
+
+        root.innerHTML = '';
+        const svg = d3.select(root)
+            .append('svg')
+            .attr('viewBox', `0 0 ${width} ${height}`)
+            .style('width', '100%')
+            .style('height', 'auto');
+
+        const lineX = margin.left + 12;
+        const y = (i) => margin.top + (i * rowH);
+
+        svg.append('line')
+            .attr('x1', lineX)
+            .attr('x2', lineX)
+            .attr('y1', y(0))
+            .attr('y2', y(data.length - 1))
+            .attr('class', 'timeline-axis');
+
+        const nodes = svg.append('g')
+            .selectAll('g.node')
+            .data(data)
+            .enter()
+            .append('g')
+            .attr('class', 'node')
+            .attr('transform', (d, i) => `translate(0,${y(i)})`);
+
+        nodes.append('circle')
+            .attr('cx', lineX)
+            .attr('cy', 0)
+            .attr('r', 6)
+            .attr('class', 'timeline-dot')
+            .on('mouseenter', (evt, d) => {
+                tooltip.style.display = 'block';
+                tooltip.innerHTML = `<strong>${d.when}</strong><br/>${d.description}<br/><span class="muted">${d.sourceSection}${d.sourcePage ? ` (p${d.sourcePage})` : ''}</span>`;
+            })
+            .on('mousemove', (evt) => {
+                tooltip.style.left = (evt.pageX + 12) + 'px';
+                tooltip.style.top = (evt.pageY + 12) + 'px';
+            })
+            .on('mouseleave', () => {
+                tooltip.style.display = 'none';
+            });
+
+        nodes.append('text')
+            .attr('x', lineX + 16)
+            .attr('y', -4)
+            .attr('class', 'timeline-label')
+            .text(d => d.title);
+
+        nodes.append('text')
+            .attr('x', lineX + 16)
+            .attr('y', 14)
+            .attr('class', 'timeline-when')
+            .text(d => d.when);
+    })();
+</script>
+            
+    </div></main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,320 @@
+Appendix H - Bearspaw Feedermain Concrete Assessment, Tetra Tech
+PAGES 557-596
+
+
+[PAGE 557]
+Tensile Test Report
+ASTM A370-19
+RJ Peterman Associates, Inc
+5336 Kewley Lane
+Manhattan, KS 66503
+Test Method: ASTM A370-19
+Operator: Ryan
+Material: PCCP Plate
+Date  7/30/2024
+Info: Calgary, AB Plate #20095 With Weld
+Sample ID:
+1591
+Direction: Longitudinal
+Measure Width:
+0.508 in
+Location:
+Measured Thickness:
+0.061 in
+Calculated Area:
+0.0310 in2
+Initial Gage Length:
+2.000
+Final Gage Length:
+2.230
+Elongation 2in Gage:
+11.5%
+Modulus:
+24.52 Mpsi
+2% Offset Yield
+1,212 lb
+2% Offset Stress
+39,126 psi
+Ultimate Load:
+1,640 lb
+Ultimate Stress:
+52,928 psi
+`
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+Stress (psi)
+Axial Strain (%)
+1 of 1
+550
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 558]
+APPENDIX H - BEARSPAW FEEDERMAIN CONCRETE ASSESSMENT, 
+TETRA TECH 
+ 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 559]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 560]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 561]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 562]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 563]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 564]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 565]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 566]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 567]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 568]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 569]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 570]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 571]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 572]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 573]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 574]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 575]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 576]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 577]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 578]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 579]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 580]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 581]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 582]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 583]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 584]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 585]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 586]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 587]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 588]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 589]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 590]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 591]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 592]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 593]
+(CSA Designation A23.2-2B & A23.2-3B)
+Date Tested:
+Sample Source:
+Remarks:
+Reviewed By:
+0.40
+Outer Core
+1
+Mortar Coat
+1
+-
+Mortar Coat
+2
+-
+Client:
+Location:
+Project:
+Project No.:
+Tested By:
+16th Avenue and Home Road NW, Calgary
+Laboratory:
+Concrete Assessment - Bearspaw
+Feedermain
+704-ENG.CMCS03210-01
+Pure Technologies, a Xylem Brand
+June 21 & 24, 2024
+110, 140 Quarry Park Blvd. S.E.,
+Calgary, AB T2C 3G3
+EM
+Bearspaw Feeder Main
+Outer Core
+2
+-
+0.41
+0.49
+-
+Inner
+Coating 1
+-
+0.38
+P.Eng.
+Total Soluble Sulphate Content, %
+ Sample Number
+ Borehole Number
+ Depth (m)
+0.36
+0.51
+C5
+C6
+C2
+C3
+C4
+C1
+Mortar Coat
+3
+-
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 594]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 595]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 596]
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

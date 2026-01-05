@@ -1,0 +1,78 @@
+6 Electromagnetic Inspection Results
+PAGES 40-44
+
+
+[PAGE 40]
+6 
+ELECTROMAGNETIC INSPECTION RESULTS 
+Following the June 5 rupture, The City contracted Pure to inspect the C301 portion of the BSFM west of the 
+Shaganappi Pump Station, using robotic and free-swimming electromagnetic inspection tools that employ remote field 
+eddy current transducer coupling technology (RFEC/TC). These inspections revealed a total of 239 distressed pipes in 
+addition to the pipe that ruptured. See Appendix B and Table 6-1. Distressed pipes are considered to be pipe lengths 
+having one or more wraps of prestressed wires that have broken, with each failed wrap commonly referred to as a 
+wire break. This translates to approximately 12.5% of the 9.6 km of inspected pipe being in some form of distress. The 
+locations of these pipes are mapped in Figure 6-1, 6-2, 6-3 and 6-4 and will be discussed in greater detail in the 
+following sections. The wire breaks on these figures are colour coded to align with The City’s pre-existing wire break 
+thresholds informed by Pure’s Performance Curves in Figures 5-1 and 5-2. 
+ 
+Table 6-1 
+Wire Break Distribution From Electromagnetic Inspections 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of Pipes with >= 40 & Distributed Wire 
+Breaks 
+20 
+Number of Pipes with 30 – 35 Wire Breaks 
+16 
+Number of Pipes with 10 – 25 Wire Breaks 
+117 
+Number of Pipes with 1 – 5 Wire Breaks 
+86 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 41]
+Figure 6-1 Overall Wire Break Locations and Degree of Severity from Electromagnetic Inspection 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 42]
+Figure 6-2 Wire Break Locations and Degree of Severity from Electromagnetic Inspection Between 87 St NW and Bow River  
+ 
+ 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 43]
+Figure 6-3 Wire Break Locations and Degree of Severity from Electromagnetic Inspection Between Bow River and Shaganappi Tr NW  
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 44]
+Figure 6-4 Wire Break Locations and Degree of Severity from Electromagnetic Inspection Between Shaganappi Tr NW and Memorial Drive Pump 
+Station 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

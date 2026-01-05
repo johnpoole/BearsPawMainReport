@@ -1,5 +1,85 @@
 [
   {
+    "date": "",
+    "when": "Mid-1950s–2002",
+    "title": "Mid-1950s–2002 — LEC HE test data baseline",
+    "description": "LEC acquired HE test data on prestressing wire manufactured between the mid-1950s and 2002 (as referenced in the report’s HE testing background).",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
+    "date": "",
+    "when": "Late 1960s–early 1970s",
+    "title": "Late 1960s–early 1970s — FIP develops HE lab test",
+    "description": "FIP developed a laboratory test in the late 1960s and early 1970s for evaluating hydrogen embrittlement (HE) sensitivity of PCCP prestressing wire.",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
+    "date": "",
+    "when": "1975",
+    "title": "1975 — BSFM constructed (PCCP and carbon steel)",
+    "description": "The Bearspaw South Feedermain (BSFM) is part of Calgary’s potable water transmission network and was constructed in 1975, comprised of PCCP and carbon steel pipe.",
+    "sourceSection": "Executive Summary",
+    "sourcePage": 3
+  },
+  {
+    "date": "",
+    "when": "1980",
+    "title": "1980 — FIP publishes recommended HE test procedure",
+    "description": "A recommended procedure for performing the FIP ammonium thiocyanate test was published in 1980.",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
+    "date": "",
+    "when": "1990",
+    "title": "1990 — LEC builds dedicated FIP test system",
+    "description": "LEC constructed a dedicated system in 1990 to perform the FIP test procedure in support of forensic investigations of PCCP failures.",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
+    "date": "",
+    "when": "1990–2002",
+    "title": "1990–2002 — LEC uses HE test results to support ASTM standard work",
+    "description": "Based on test data acquired by LEC between 1990 and 2002, LEC presented to an ASTM wire products task group proposing development of an ASTM standard for the test.",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
+    "date": "",
+    "when": "Sep 2004",
+    "title": "Sep 2004 — ASTM A1032-04 published",
+    "description": "ASTM published the A1032-04 test procedure in September 2004: Standard Test Method for Hydrogen Embrittlement Resistance for Steel Wire Hard Drawn Used for Prestressing Concrete Pipe.",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
+    "date": "",
+    "when": "2004",
+    "title": "2004 — ASTM A648-04a updated with supplementary requirements",
+    "description": "Supplementary requirements were added concurrently to ASTM A648-04a addressing the use of A1032-04 in purchase order specifications for pipe wrap wire.",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
+    "date": "",
+    "when": "2014",
+    "title": "2014 — City soil sampling baseline",
+    "description": "The report compares 2024 soil sampling data to soil samples The City proactively obtained in 2014 as part of its Feedermain Condition Assessment Program.",
+    "sourceSection": "8 Environmental Investigation",
+    "sourcePage": 46
+  },
+  {
+    "date": "",
+    "when": "Nov 2019",
+    "title": "Nov 2019 — RJPA acquires HE test system",
+    "description": "RJPA purchased the HE test system from LEC in November 2019 and conducts HE tests in accordance with the current ASTM revision referenced in the report.",
+    "sourceSection": "Appendix G — HE sensitivity test method",
+    "sourcePage": 531
+  },
+  {
     "date": "2024-06-05",
     "when": "Jun 05, 2024",
     "title": "Jun 05, 2024 — Catastrophic failure of the BSFM",
@@ -94,6 +174,14 @@
     "description": "Corrpro personnel performed an additional investigation on June 21, 2024.",
     "sourceSection": "Corrosion Assessment (Corrpro addendum)",
     "sourcePage": 112
+  },
+  {
+    "date": "2024-06-21",
+    "when": "Jun 21, 2024",
+    "title": "Jun 21, 2024 — Wire specimens received for lab testing",
+    "description": "RJPA received wire specimens shipped by Pure from the failure location for testing and evaluation (including HE sensitivity, torsion, and tensile testing).",
+    "sourceSection": "Appendix G — Pure/RJPA lab testing",
+    "sourcePage": 514
   },
   {
     "date": "2024-06-28",

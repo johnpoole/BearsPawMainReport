@@ -1,0 +1,706 @@
+Appendix E - 2024 Bearspaw South Feedermain Soil Samples, City of Calgary
+PAGES 223-224
+
+
+[PAGE 223]
+APPENDIX E - 2024 BEARSPAW SOUTH FEEDERMAIN SOIL SAMPLES, 
+CITY OF CALGARY 
+ 
+ 
+ 
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted
+
+[PAGE 224]
+City of Calgary Water Services
+2024 Bearspaw South Water Main Line Soil Sampling Program
+Project #: 24L-03073 
+Lab Reports: 24C160314, 24C162297
+(units)
+(dS/m)
+(ohm/cm)
+(%)
+(mg/kg)
+(meq/L)
+(mg/L)
+(mg/kg)
+(meq/L)
+(mg/L)
+(%)
+2024FMSS-01
+5662204.67
+697881.42
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.56
+2.14
+467
+39
+46
+3.3
+117
+390
+20.8
+1000
+0.04
+2024FMSS-02
+5662073.45
+698146.68
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.93
+0.93
+1075
+32
+36
+3.16
+112
+63
+4.12
+198
+0.03
+2024FMSS-03
+5661975.46
+698348.95
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.91
+10.7
+93
+44
+1580
+101
+3580
+28
+1.31
+63
+0.04
+2024FMSS-04
+5661961.65
+698366.31
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.88
+10.5
+95
+45
+1540
+96.7
+3430
+41
+1.87
+90
+0.04
+2024FMSS-05
+5661958.07
+698388.90
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.93
+16.9
+59
+38
+1190
+88.3
+3130
+52
+2.83
+136
+0.04
+2024FMSS-06
+5661952.45
+698416.47
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+8.15
+3.59
+279
+44
+682
+43.7
+1550
+23
+1.08
+52
+0.04
+2024FMSS-07
+5661927.85
+698442.67
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.58
+7.27
+138
+46
+1040
+64
+2270
+51
+2.31
+111
+0.03
+2024FMSS-08
+5661838.07
+698568.95
+09-Jun-24
+0.75
+Hydrovac and Hand Auger
+7.64
+1.45
+690
+42
+142
+9.56
+339
+53
+2.64
+127
+0.03
+2024FMSS-09
+5661806.88
+698597.43
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.99
+8.37
+119
+51
+1350
+74.7
+2650
+53
+2.14
+103
+0.03
+2024FMSS-10
+5661736.85
+698658.35
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.30
+12.2
+82
+51
+2180
+120
+4270
+199
+8.12
+390
+0.04
+2024FMSS-11
+5661016.74
+699357.50
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.59
+0.51
+1961
+33
+11
+0.93
+33
+30
+1.92
+92
+0.04
+2024FMSS-12
+5660719.89
+699599.10
+09-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.62
+0.64
+1563
+42
+34
+2.26
+80
+42
+2.10
+101
+0.03
+2024FMSS-13
+697573.57
+5662276.36
+13-Jun-24
+1.0
+Hydrovac and Hand Auger
+7.54
+2.02
+495
+20
+167
+8.91
+316
+207
+8.14
+391
+0.02
+2024FMSS-14
+697314.56
+5662373.33
+13-Jun-24
+1.0
+Hydrovac and Hand Auger
+7.46
+1.90
+526
+22
+153
+9.00
+319
+128
+5.54
+266
+<0.01
+2024FMSS-15
+696965.79
+5662506.96
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.77
+1.03
+971
+23
+96
+4.99
+177
+53
+2.06
+99
+<0.01
+2024FMSS-16
+696778.83
+5662591.11
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.65
+1.82
+549
+18
+174
+9.08
+322
+52
+2.00
+96
+<0.01
+2024FMSS-17
+696574.28
+5662676.83
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.56
+1.11
+901
+15
+71
+3.95
+140
+50
+2.06
+99
+0.01
+2024FMSS-18
+696349.67
+5662700.56
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.56
+0.55
+1818
+12
+27
+2.03
+72
+15
+0.83
+40
+<0.01
+2024FMSS-19
+696169.56
+5662826.19
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.58
+0.42
+2381
+14
+5
+0.42
+15
+16
+0.98
+47
+0.01
+2024FMSS-20
+695369.30
+5663439.32
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.48
+0.61
+1639
+14
+23
+1.30
+46
+25
+1.04
+50
+<0.01
+2024FMSS-21
+695221.30
+5663551.73
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.54
+0.81
+1235
+21
+93
+4.60
+163
+34
+1.23
+59
+<0.01
+2024FMSS-22
+694583.51
+5664083.17
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.41
+7.32
+137
+24
+1710
+68.80
+2440
+39
+1.15
+55
+<0.01
+2024FMSS-23
+694454.75
+5664169.61
+13-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.50
+1.04
+962
+15
+57
+5.05
+179
+18
+1.17
+56
+0.01
+2024FMSS-24
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.65
+0.53
+1887
+22
+13
+1.10
+39
+34
+2.06
+99
+2024FMSS-25
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.65
+0.81
+1235
+25
+28
+2.17
+77
+61
+3.54
+170
+2024FMSS-26
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.63
+0.44
+2273
+13
+4
+0.31
+11
+19
+1.10
+53
+2024FMSS-27
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.62
+0.47
+2128
+12
+12
+0.90
+32
+12
+0.69
+33
+2024FMSS-28
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.83
+1.04
+962
+10
+26
+2.26
+80
+82
+5.16
+248
+2024FMSS-29
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.66
+0.93
+1075
+18
+41
+3.05
+108
+86
+4.71
+226
+2024FMSS-30
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.52
+1.25
+800
+19
+73
+3.89
+138
+162
+6.35
+305
+2024FMSS-31
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.74
+1.20
+833
+16
+65
+3.84
+136
+142
+6.14
+295
+2024FMSS-32
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.68
+0.84
+1190
+17
+29
+1.86
+66
+55
+2.58
+124
+2024FMSS-33
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.61
+0.97
+1031
+13
+46
+3.67
+130
+50
+2.96
+142
+2024FMSS-34
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.82
+1.16
+862
+10
+42
+3.55
+126
+74
+4.64
+223
+2024FMSS-35
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.66
+0.79
+1266
+11
+31
+2.23
+79
+42
+2.23
+107
+2024FMSS-36
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.97
+12.20
+82
+12
+1190
+108.00
+3837
+27
+1.83
+88
+2024FMSS-37
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.73
+2.22
+450
+13
+110
+9.14
+324
+114
+7.00
+336
+2024FMSS-38
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.64
+2.51
+398
+12
+230
+20.30
+720
+27
+1.77
+85
+2024FMSS-39
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.59
+1.67
+599
+9
+126
+8.49
+301
+83
+4.12
+198
+2024FMSS-40
+28-Jun-24
+2.5
+Hydrovac and Hand Auger
+7.76
+3.00
+333
+15
+210
+16.40
+583
+225
+13.00
+624
+Notes:
+pH
+All samples pH> 5.5
+Very Corrosive:
+<500 
+Corrosive:
+500 -1000
+Moderately Corrosive:
+>1000
+mbgs - meters below ground surface
+dS/m - deciSiemens per metre
+ohm/cm - ohm per centimeter
+% - percent
+mg/kg - milligrams per kilogram
+meq/L - milliequivalents per litre
+Table 1. Soil Quality Results
+Sample Location   
+ (NAD 1983 UTM Zone 11N)                        
+Easting
+Northing
+Sample ID
+Sulfide 
+Sample Method
+Depth           
+(mbgs)
+Sample        
+Date
+pH
+Electical 
+Conductivity 
+Calculated Resistivity 
+Moisture
+Chloride 
+Sulfate  
+City of Calgary
+Soil Resistivity (ohm/cm)
+Chloride (meq/L Cl-)
+Sulfate (meq/L SO4
+2-)
+High:
+>50.65 
+High:
+>24.02 
+217
+Attachment 2 
+IP2024-1237
+ISC: Unrestricted

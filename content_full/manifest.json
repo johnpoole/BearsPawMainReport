@@ -1,0 +1,168 @@
+{
+  "pdf": "Bearspaw South Feeder Main Investigation Report - IP2024-1237.pdf",
+  "pageCount": 596,
+  "extractedPageCap": 596,
+  "entries": [
+    {
+      "title": "Executive Summary",
+      "slug": "executive-summary",
+      "startPage": 3,
+      "endPage": 3,
+      "file": "p003-executive-summary.txt"
+    },
+    {
+      "title": "1 Introduction",
+      "slug": "1-introduction",
+      "startPage": 9,
+      "endPage": 11,
+      "file": "p009-1-introduction.txt"
+    },
+    {
+      "title": "2 Bearspaw South Feedermain",
+      "slug": "2-bearspaw-south-feedermain",
+      "startPage": 12,
+      "endPage": 14,
+      "file": "p012-2-bearspaw-south-feedermain.txt"
+    },
+    {
+      "title": "3 Field Observations",
+      "slug": "3-field-observations",
+      "startPage": 15,
+      "endPage": 36,
+      "file": "p015-3-field-observations.txt"
+    },
+    {
+      "title": "4 Pump Operations Summary",
+      "slug": "4-pump-operations-summary",
+      "startPage": 37,
+      "endPage": 37,
+      "file": "p037-4-pump-operations-summary.txt"
+    },
+    {
+      "title": "5 Finite Element Analysis & Limit State Design",
+      "slug": "5-finite-element-analysis-and-limit-state-design",
+      "startPage": 38,
+      "endPage": 39,
+      "file": "p038-5-finite-element-analysis-and-limit-state-design.txt"
+    },
+    {
+      "title": "6 Electromagnetic Inspection Results",
+      "slug": "6-electromagnetic-inspection-results",
+      "startPage": 40,
+      "endPage": 44,
+      "file": "p040-6-electromagnetic-inspection-results.txt"
+    },
+    {
+      "title": "7 Stray Current Assessment",
+      "slug": "7-stray-current-assessment",
+      "startPage": 45,
+      "endPage": 45,
+      "file": "p045-7-stray-current-assessment.txt"
+    },
+    {
+      "title": "8 Environmental Investigation",
+      "slug": "8-environmental-investigation",
+      "startPage": 46,
+      "endPage": 56,
+      "file": "p046-8-environmental-investigation.txt"
+    },
+    {
+      "title": "9 Metallurgical Analysis",
+      "slug": "9-metallurgical-analysis",
+      "startPage": 57,
+      "endPage": 57,
+      "file": "p057-9-metallurgical-analysis.txt"
+    },
+    {
+      "title": "10 Mortar and Concrete Analysis",
+      "slug": "10-mortar-and-concrete-analysis",
+      "startPage": 58,
+      "endPage": 58,
+      "file": "p058-10-mortar-and-concrete-analysis.txt"
+    },
+    {
+      "title": "11 Live Load Assessment",
+      "slug": "11-live-load-assessment",
+      "startPage": 59,
+      "endPage": 59,
+      "file": "p059-11-live-load-assessment.txt"
+    },
+    {
+      "title": "12 Summary of Observations",
+      "slug": "12-summary-of-observations",
+      "startPage": 60,
+      "endPage": 61,
+      "file": "p060-12-summary-of-observations.txt"
+    },
+    {
+      "title": "13 Probable Cause",
+      "slug": "13-probable-cause",
+      "startPage": 62,
+      "endPage": 63,
+      "file": "p062-13-probable-cause.txt"
+    },
+    {
+      "title": "Closure",
+      "slug": "closure",
+      "startPage": 64,
+      "endPage": 64,
+      "file": "p064-closure.txt"
+    },
+    {
+      "title": "Appendix A - Bearspaw South Feedermain Break Initial Investigation, Associated Engineering",
+      "slug": "appendix-a-bearspaw-south-feedermain-break-initial-investigation-associated-engineering",
+      "startPage": 64,
+      "endPage": 93,
+      "file": "p064-appendix-a-bearspaw-south-feedermain-break-initial-investigation-associated-engineering.txt"
+    },
+    {
+      "title": "Appendix B - Pure Technologies Electromagnetic Inspection Results",
+      "slug": "appendix-b-pure-technologies-electromagnetic-inspection-results",
+      "startPage": 94,
+      "endPage": 110,
+      "file": "p094-appendix-b-pure-technologies-electromagnetic-inspection-results.txt"
+    },
+    {
+      "title": "Appendix C - Corrosion Assessment of Initial Break, Corrpro",
+      "slug": "appendix-c-corrosion-assessment-of-initial-break-corrpro",
+      "startPage": 111,
+      "endPage": 115,
+      "file": "p111-appendix-c-corrosion-assessment-of-initial-break-corrpro.txt"
+    },
+    {
+      "title": "Appendix D - Bearspaw South Feedermain Forensic Investigation, Thurber Engineering",
+      "slug": "appendix-d-bearspaw-south-feedermain-forensic-investigation-thurber-engineering",
+      "startPage": 116,
+      "endPage": 222,
+      "file": "p116-appendix-d-bearspaw-south-feedermain-forensic-investigation-thurber-engineering.txt"
+    },
+    {
+      "title": "Appendix E - 2024 Bearspaw South Feedermain Soil Samples, City of Calgary",
+      "slug": "appendix-e-2024-bearspaw-south-feedermain-soil-samples-city-of-calgary",
+      "startPage": 223,
+      "endPage": 224,
+      "file": "p223-appendix-e-2024-bearspaw-south-feedermain-soil-samples-city-of-calgary.txt"
+    },
+    {
+      "title": "Appendix F - Bearspaw South Feedermain Geo-Environmental Review, Associated Engineering",
+      "slug": "appendix-f-bearspaw-south-feedermain-geo-environmental-review-associated-engineering",
+      "startPage": 225,
+      "endPage": 511,
+      "file": "p225-appendix-f-bearspaw-south-feedermain-geo-environmental-review-associated-engineering.txt"
+    },
+    {
+      "title": "Appendix G - Bearspaw South Feedermain Prestressing Wire and Steel Cylinder Testing, Pure Technologies",
+      "slug": "appendix-g-bearspaw-south-feedermain-prestressing-wire-and-steel-cylinder-testing-pure-technologies",
+      "startPage": 512,
+      "endPage": 556,
+      "file": "p512-appendix-g-bearspaw-south-feedermain-prestressing-wire-and-steel-cylinder-testing-pure-technologies.txt"
+    },
+    {
+      "title": "Appendix H - Bearspaw Feedermain Concrete Assessment, Tetra Tech",
+      "slug": "appendix-h-bearspaw-feedermain-concrete-assessment-tetra-tech",
+      "startPage": 557,
+      "endPage": 596,
+      "file": "p557-appendix-h-bearspaw-feedermain-concrete-assessment-tetra-tech.txt"
+    }
+  ]
+}

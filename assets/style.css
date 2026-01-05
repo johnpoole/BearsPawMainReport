@@ -39,10 +39,6 @@ a:hover { text-decoration: underline; }
 
 .brand {
   font-weight: 700;
-  .timeline-when {
-    fill: var(--muted);
-    font-size: 12px;
-  }
   margin-bottom: 10px;
 }
 
@@ -147,6 +143,11 @@ figcaption {
 .timeline-label {
   fill: var(--text);
   font-size: 11px;
+}
+
+.timeline-when {
+  fill: var(--muted);
+  font-size: 12px;
 }
 
 .timeline-tooltip {
