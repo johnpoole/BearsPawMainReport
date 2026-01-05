@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>People & Orgs — BearsPaw Main Report</title>
+  <link rel="stylesheet" href="../assets/style.css"/>
+</head>
+<body>
+  <div class="shell">
+    <nav class="nav">
+      <div class="brand">BearsPaw Main Report</div>
+      <small>Redesigned web presentation</small>
+      <ul><li><a href="../index.html">Overview</a></li>
+<li><a href="timeline.html">Timeline</a></li>
+<li>→ <a href="people-orgs.html">People & Orgs</a></li>
+<li><a href="incident-repairs.html">Incident & Repairs</a></li>
+<li><a href="system-background.html">System Background</a></li>
+<li><a href="analyses.html">Analyses</a></li>
+<li><a href="findings.html">Findings</a></li>
+<li><a href="probable-cause.html">Probable Cause</a></li>
+<li><a href="appendices.html">Appendices</a></li></ul>
+    </nav>
+    <main class="main"><div class="content">
+      
+<h1>People & Orgs</h1>
+<p class="meta">Curated list of people and organizations mentioned in the report, plus how they relate.</p>
+
+<div class="callout">
+    <div id="entity-graph" class="entity-graph"></div>
+    <div id="entity-tooltip" class="entity-tooltip" style="display:none"></div>
+</div>
+
+<h2>Entities</h2>
+<table class="entity-table"><thead><tr><th>Type</th><th>Name</th><th>Role</th></tr></thead><tbody><tr><td>Organization</td><td>ASTM International</td><td class="muted">Published hydrogen embrittlement test method standards referenced</td></tr><tr><td>Organization</td><td>Associated Engineering (AE)</td><td class="muted">Forensic investigation / report author</td></tr><tr><td>Organization</td><td>City of Calgary Water Services</td><td class="muted">City department (Appendix E: 2024 soil sampling program)</td></tr><tr><td>Organization</td><td>Corrpro Canada, Inc. (Corrpro)</td><td class="muted">Corrosion assessment</td></tr><tr><td>Organization</td><td>FIP (European Federation Internationale de la Precontrainte)</td><td class="muted">Developed early HE sensitivity lab test; published procedure</td></tr><tr><td>Organization</td><td>Lewis Engineering and Consulting, Inc. (LEC)</td><td class="muted">Historical HE test system / data referenced in Appendix G</td></tr><tr><td>Organization</td><td>Pure Technologies (Pure)</td><td class="muted">Electromagnetic inspection; coordinated lab testing</td></tr><tr><td>Organization</td><td>RJ Peterman & Associates, Inc. (RJPA)</td><td class="muted">Laboratory testing (wire/cylinder specimens)</td></tr><tr><td>Organization</td><td>Tetra Tech</td><td class="muted">Mortar and concrete analysis (appendix materials)</td></tr><tr><td>Organization</td><td>The City of Calgary</td><td class="muted">Owner/operator of the Bearspaw South Feedermain (BSFM)</td></tr><tr><td>Organization</td><td>Thurber Engineering</td><td class="muted">Forensic investigation support (appendix materials)</td></tr><tr><td>Person</td><td>Duane Strayer</td><td class="muted">Associated Engineering (recipient on Corrpro addendum letter)</td></tr><tr><td>Person</td><td>Jeff Burton, P.Eng.</td><td class="muted">Corrpro personnel; performed additional investigation</td></tr><tr><td>Person</td><td>Josh Greenberg</td><td class="muted">Condition Assessment Engineer (Pure)</td></tr><tr><td>Person</td><td>Richard Lewis</td><td class="muted">Referenced for extensive experience with HE sensitivity test method (LEC)</td></tr><tr><td>Person</td><td>Sylvia Hall</td><td class="muted">Referenced for hydrogen embrittlement potential threshold (1998 NACE paper)</td></tr></tbody></table>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    const graphData = {"nodes": [{"id": "org:city-of-calgary", "type": "org", "name": "The City of Calgary", "role": "Owner/operator of the Bearspaw South Feedermain (BSFM)"}, {"id": "org:city-of-calgary-water-services", "type": "org", "name": "City of Calgary Water Services", "role": "City department (Appendix E: 2024 soil sampling program)"}, {"id": "org:associated-engineering", "type": "org", "name": "Associated Engineering (AE)", "role": "Forensic investigation / report author"}, {"id": "org:pure-technologies", "type": "org", "name": "Pure Technologies (Pure)", "role": "Electromagnetic inspection; coordinated lab testing"}, {"id": "org:corrpro", "type": "org", "name": "Corrpro Canada, Inc. (Corrpro)", "role": "Corrosion assessment"}, {"id": "org:thurber", "type": "org", "name": "Thurber Engineering", "role": "Forensic investigation support (appendix materials)"}, {"id": "org:tetra-tech", "type": "org", "name": "Tetra Tech", "role": "Mortar and concrete analysis (appendix materials)"}, {"id": "org:rjpa", "type": "org", "name": "RJ Peterman & Associates, Inc. (RJPA)", "role": "Laboratory testing (wire/cylinder specimens)"}, {"id": "org:lec", "type": "org", "name": "Lewis Engineering and Consulting, Inc. (LEC)", "role": "Historical HE test system / data referenced in Appendix G"}, {"id": "org:fip", "type": "org", "name": "FIP (European Federation Internationale de la Precontrainte)", "role": "Developed early HE sensitivity lab test; published procedure"}, {"id": "org:astm", "type": "org", "name": "ASTM International", "role": "Published hydrogen embrittlement test method standards referenced"}, {"id": "person:josh-greenberg", "type": "person", "name": "Josh Greenberg", "role": "Condition Assessment Engineer (Pure)"}, {"id": "person:duane-strayer", "type": "person", "name": "Duane Strayer", "role": "Associated Engineering (recipient on Corrpro addendum letter)"}, {"id": "person:jeff-burton", "type": "person", "name": "Jeff Burton, P.Eng.", "role": "Corrpro personnel; performed additional investigation"}, {"id": "person:richard-lewis", "type": "person", "name": "Richard Lewis", "role": "Referenced for extensive experience with HE sensitivity test method (LEC)"}, {"id": "person:sylvia-hall", "type": "person", "name": "Sylvia Hall", "role": "Referenced for hydrogen embrittlement potential threshold (1998 NACE paper)"}], "links": [{"source": "org:city-of-calgary", "target": "org:associated-engineering", "relation": "engaged for forensic investigation"}, {"source": "org:city-of-calgary-water-services", "target": "org:city-of-calgary", "relation": "department of"}, {"source": "org:city-of-calgary", "target": "org:pure-technologies", "relation": "contracted for electromagnetic inspections"}, {"source": "org:associated-engineering", "target": "org:corrpro", "relation": "contracted for corrosion assessment"}, {"source": "org:associated-engineering", "target": "org:thurber", "relation": "appendix contributor"}, {"source": "org:associated-engineering", "target": "org:tetra-tech", "relation": "appendix contributor"}, {"source": "org:pure-technologies", "target": "org:rjpa", "relation": "sent specimens for lab testing"}, {"source": "person:josh-greenberg", "target": "org:pure-technologies", "relation": "works at"}, {"source": "person:duane-strayer", "target": "org:associated-engineering", "relation": "works at"}, {"source": "person:jeff-burton", "target": "org:corrpro", "relation": "works at"}, {"source": "person:richard-lewis", "target": "org:lec", "relation": "associated with"}, {"source": "org:lec", "target": "org:astm", "relation": "presented to / contributed to standard development"}, {"source": "org:fip", "target": "org:astm", "relation": "test method lineage (historical)"}]};
+
+    (function renderEntityGraph() {
+        const root = document.getElementById('entity-graph');
+        const tooltip = document.getElementById('entity-tooltip');
+        if (!root || !window.d3) return;
+
+        const nodes = (graphData.nodes || []).map(d => Object.assign({}, d));
+        const links = (graphData.links || []).map(d => Object.assign({}, d));
+        if (!nodes.length) {
+            root.innerHTML = '<p>No curated entities found.</p>';
+            return;
+        }
+
+        root.innerHTML = '';
+        const w = Math.max(720, root.clientWidth || 720);
+        const h = 520;
+
+        const svg = d3.select(root)
+            .append('svg')
+            .attr('viewBox', `0 0 ${w} ${h}`)
+            .style('width', '100%')
+            .style('height', 'auto');
+
+        const link = svg.append('g')
+            .attr('class', 'entity-links')
+            .selectAll('line')
+            .data(links)
+            .enter()
+            .append('line')
+            .attr('class', 'entity-link');
+
+        const node = svg.append('g')
+            .attr('class', 'entity-nodes')
+            .selectAll('g')
+            .data(nodes)
+            .enter()
+            .append('g')
+            .attr('class', 'entity-node')
+            .call(d3.drag()
+                .on('start', (event, d) => {
+                    if (!event.active) sim.alphaTarget(0.25).restart();
+                    d.fx = d.x;
+                    d.fy = d.y;
+                })
+                .on('drag', (event, d) => {
+                    d.fx = event.x;
+                    d.fy = event.y;
+                })
+                .on('end', (event, d) => {
+                    if (!event.active) sim.alphaTarget(0);
+                    d.fx = null;
+                    d.fy = null;
+                })
+            );
+
+        node.append('circle')
+            .attr('r', d => d.type === 'person' ? 7 : 9)
+            .attr('class', d => d.type === 'person' ? 'entity-dot entity-dot-person' : 'entity-dot entity-dot-org')
+            .on('mouseenter', (evt, d) => {
+                if (!tooltip) return;
+                const role = d.role ? `<br/><span class="muted">${d.role}</span>` : '';
+                tooltip.style.display = 'block';
+                tooltip.innerHTML = `<strong>${d.name}</strong>${role}`;
+            })
+            .on('mousemove', (evt) => {
+                if (!tooltip) return;
+                tooltip.style.left = (evt.pageX + 12) + 'px';
+                tooltip.style.top = (evt.pageY + 12) + 'px';
+            })
+            .on('mouseleave', () => {
+                if (!tooltip) return;
+                tooltip.style.display = 'none';
+            });
+
+        node.append('text')
+            .attr('class', 'entity-label')
+            .attr('x', 12)
+            .attr('y', 4)
+            .text(d => d.name);
+
+        const sim = d3.forceSimulation(nodes)
+            .force('link', d3.forceLink(links).id(d => d.id).distance(110))
+            .force('charge', d3.forceManyBody().strength(-240))
+            .force('center', d3.forceCenter(w / 2, h / 2))
+            .force('collide', d3.forceCollide().radius(d => d.type === 'person' ? 24 : 28));
+
+        const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
+        const nodePad = (d) => d.type === 'person' ? 26 : 30; // includes dot + label offset buffer
+
+        sim.on('tick', () => {
+            // Keep nodes inside the visible area.
+            nodes.forEach((d) => {
+                const pad = nodePad(d);
+                d.x = clamp(d.x, pad, w - pad);
+                d.y = clamp(d.y, pad, h - pad);
+            });
+
+            link
+                .attr('x1', d => d.source.x)
+                .attr('y1', d => d.source.y)
+                .attr('x2', d => d.target.x)
+                .attr('y2', d => d.target.y);
+
+            node.attr('transform', d => `translate(${d.x},${d.y})`);
+        });
+    })();
+</script>
+            
+    </div></main>
+  </div>
+</body>
+</html>

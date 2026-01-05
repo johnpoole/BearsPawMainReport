@@ -272,6 +272,11 @@ def main() -> int:
         default="data/timeline-events.json",
         help="Path to curated timeline events JSON (list of objects). The timeline page always uses this file (no auto date extraction).",
     )
+    parser.add_argument(
+        "--entities",
+        default="data/entities.json",
+        help="Path to curated people/orgs graph JSON with {nodes:[], links:[]}. This page is curated (no auto extraction).",
+    )
     # Intentionally no option to link/copy the source PDF into the website output.
     args = parser.parse_args()
 
@@ -307,6 +312,7 @@ def main() -> int:
     page_defs = [
         ("overview", "Overview", ["Executive Summary"]),
         ("timeline", "Timeline", ["Timeline"]),
+        ("people-orgs", "People & Orgs", ["People & Orgs"]),
         ("incident-repairs", "Incident & Repairs", ["3 Field Observations"]),
         ("system-background", "System Background", ["1 Introduction", "2 Bearspaw South Feedermain"]),
         ("analyses", "Analyses", [
@@ -482,6 +488,200 @@ def main() -> int:
             .attr('y', 14)
             .attr('class', 'timeline-when')
             .text(d => d.when);
+    }})();
+</script>
+            """
+
+            html_out = _render_shell(
+                title=f"{label} — BearsPaw Main Report",
+                nav_html=nav_html(slug, in_pages_dir=True),
+                body_html=body,
+                rel_prefix="../",
+            )
+            (pages_dir / f"{slug}.html").write_text(html_out, encoding="utf-8")
+            continue
+
+        if slug == "people-orgs":
+            entities_path = Path(args.entities)
+            if not entities_path.exists():
+                raise SystemExit(
+                    f"Missing curated entities JSON: {entities_path}. "
+                    "Create it (data/entities.json) or pass --entities <path>."
+                )
+
+            entities_obj = json.loads(entities_path.read_text(encoding="utf-8"))
+            if not isinstance(entities_obj, dict):
+                raise SystemExit("Entities JSON must be an object with keys: nodes, links")
+            nodes_obj = entities_obj.get("nodes")
+            links_obj = entities_obj.get("links")
+            if not isinstance(nodes_obj, list) or not isinstance(links_obj, list):
+                raise SystemExit("Entities JSON must contain 'nodes' (list) and 'links' (list)")
+
+            # Minimal normalization.
+            nodes: list[dict] = []
+            for n in nodes_obj:
+                if not isinstance(n, dict):
+                    continue
+                nid = str(n.get("id") or "").strip()
+                if not nid:
+                    continue
+                ntype = str(n.get("type") or "org").strip().lower()
+                if ntype not in {"person", "org"}:
+                    ntype = "org"
+                name = str(n.get("name") or nid).strip()
+                role = str(n.get("role") or "").strip()
+                nodes.append({"id": nid, "type": ntype, "name": name, "role": role})
+
+            node_ids = {n["id"] for n in nodes}
+            links: list[dict] = []
+            for l in links_obj:
+                if not isinstance(l, dict):
+                    continue
+                src = str(l.get("source") or "").strip()
+                tgt = str(l.get("target") or "").strip()
+                if not src or not tgt:
+                    continue
+                if src not in node_ids or tgt not in node_ids:
+                    continue
+                rel = str(l.get("relation") or "related to").strip()
+                links.append({"source": src, "target": tgt, "relation": rel})
+
+            entities_json = json.dumps({"nodes": nodes, "links": links}, ensure_ascii=False)
+
+            # Simple list for accessibility / quick scanning.
+            rows = []
+            for n in sorted(nodes, key=lambda x: (x.get("type") or "", x.get("name") or "")):
+                kind = "Person" if n.get("type") == "person" else "Organization"
+                rows.append(
+                    f"<tr><td>{kind}</td><td>{n.get('name')}</td><td class=\"muted\">{n.get('role')}</td></tr>"
+                )
+            table_html = (
+                "<table class=\"entity-table\"><thead><tr>"
+                "<th>Type</th><th>Name</th><th>Role</th></tr></thead><tbody>"
+                + "".join(rows)
+                + "</tbody></table>"
+            )
+
+            body = f"""
+<h1>{label}</h1>
+<p class=\"meta\">Curated list of people and organizations mentioned in the report, plus how they relate.</p>
+
+<div class=\"callout\">
+    <div id=\"entity-graph\" class=\"entity-graph\"></div>
+    <div id=\"entity-tooltip\" class=\"entity-tooltip\" style=\"display:none\"></div>
+</div>
+
+<h2>Entities</h2>
+{table_html}
+
+<script src=\"https://d3js.org/d3.v7.min.js\"></script>
+<script>
+    const graphData = {entities_json};
+
+    (function renderEntityGraph() {{
+        const root = document.getElementById('entity-graph');
+        const tooltip = document.getElementById('entity-tooltip');
+        if (!root || !window.d3) return;
+
+        const nodes = (graphData.nodes || []).map(d => Object.assign({{}}, d));
+        const links = (graphData.links || []).map(d => Object.assign({{}}, d));
+        if (!nodes.length) {{
+            root.innerHTML = '<p>No curated entities found.</p>';
+            return;
+        }}
+
+        root.innerHTML = '';
+        const w = Math.max(720, root.clientWidth || 720);
+        const h = 520;
+
+        const svg = d3.select(root)
+            .append('svg')
+            .attr('viewBox', `0 0 ${{w}} ${{h}}`)
+            .style('width', '100%')
+            .style('height', 'auto');
+
+        const link = svg.append('g')
+            .attr('class', 'entity-links')
+            .selectAll('line')
+            .data(links)
+            .enter()
+            .append('line')
+            .attr('class', 'entity-link');
+
+        const node = svg.append('g')
+            .attr('class', 'entity-nodes')
+            .selectAll('g')
+            .data(nodes)
+            .enter()
+            .append('g')
+            .attr('class', 'entity-node')
+            .call(d3.drag()
+                .on('start', (event, d) => {{
+                    if (!event.active) sim.alphaTarget(0.25).restart();
+                    d.fx = d.x;
+                    d.fy = d.y;
+                }})
+                .on('drag', (event, d) => {{
+                    d.fx = event.x;
+                    d.fy = event.y;
+                }})
+                .on('end', (event, d) => {{
+                    if (!event.active) sim.alphaTarget(0);
+                    d.fx = null;
+                    d.fy = null;
+                }})
+            );
+
+        node.append('circle')
+            .attr('r', d => d.type === 'person' ? 7 : 9)
+            .attr('class', d => d.type === 'person' ? 'entity-dot entity-dot-person' : 'entity-dot entity-dot-org')
+            .on('mouseenter', (evt, d) => {{
+                if (!tooltip) return;
+                const role = d.role ? `<br/><span class=\"muted\">${{d.role}}</span>` : '';
+                tooltip.style.display = 'block';
+                tooltip.innerHTML = `<strong>${{d.name}}</strong>${{role}}`;
+            }})
+            .on('mousemove', (evt) => {{
+                if (!tooltip) return;
+                tooltip.style.left = (evt.pageX + 12) + 'px';
+                tooltip.style.top = (evt.pageY + 12) + 'px';
+            }})
+            .on('mouseleave', () => {{
+                if (!tooltip) return;
+                tooltip.style.display = 'none';
+            }});
+
+        node.append('text')
+            .attr('class', 'entity-label')
+            .attr('x', 12)
+            .attr('y', 4)
+            .text(d => d.name);
+
+        const sim = d3.forceSimulation(nodes)
+            .force('link', d3.forceLink(links).id(d => d.id).distance(110))
+            .force('charge', d3.forceManyBody().strength(-240))
+            .force('center', d3.forceCenter(w / 2, h / 2))
+            .force('collide', d3.forceCollide().radius(d => d.type === 'person' ? 24 : 28));
+
+        const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
+        const nodePad = (d) => d.type === 'person' ? 26 : 30; // includes dot + label offset buffer
+
+        sim.on('tick', () => {{
+            // Keep nodes inside the visible area.
+            nodes.forEach((d) => {{
+                const pad = nodePad(d);
+                d.x = clamp(d.x, pad, w - pad);
+                d.y = clamp(d.y, pad, h - pad);
+            }});
+
+            link
+                .attr('x1', d => d.source.x)
+                .attr('y1', d => d.source.y)
+                .attr('x2', d => d.target.x)
+                .attr('y2', d => d.target.y);
+
+            node.attr('transform', d => `translate(${{d.x}},${{d.y}})`);
+        }});
     }})();
 </script>
             """

@@ -166,6 +166,63 @@ figcaption {
   font-size: 12px;
 }
 
+.entity-graph {
+  width: 100%;
+}
+
+.entity-link {
+  stroke: var(--border);
+  stroke-width: 1;
+}
+
+.entity-dot {
+  stroke: var(--panel);
+  stroke-width: 2;
+}
+
+.entity-dot-org {
+  fill: var(--link);
+}
+
+.entity-dot-person {
+  fill: var(--text);
+}
+
+.entity-label {
+  fill: var(--text);
+  font-size: 11px;
+}
+
+.entity-tooltip {
+  position: absolute;
+  max-width: 420px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--panel);
+  color: var(--text);
+  pointer-events: none;
+}
+
+.entity-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0 0;
+}
+
+.entity-table th,
+.entity-table td {
+  border-bottom: 1px solid var(--border);
+  padding: 10px 8px;
+  vertical-align: top;
+}
+
+.entity-table th {
+  text-align: left;
+  color: var(--muted);
+  font-weight: 600;
+}
+
 @media (max-width: 900px) {
   .shell { grid-template-columns: 1fr; }
   .nav { height: auto; position: relative; border-right: 0; border-bottom: 1px solid var(--border); }
