@@ -1,0 +1,199 @@
+8
+ENVIRONMENTAL INVESTIGATION
+8.1
+Soil Sample Assessment
+The City’s Feedermain Condition Assessment Program has established criteria for assessing the aggressiveness of soils
+as shown in Table 8-1 below. These criteria have also informed The City’s Standard Specifications and Design
+Guidelines for Feedermains to prevent deterioration of C301, C303, and mortar coated C200 pipe.
+
+Table 8-1
+City of Calgary Feedermain Soil Assessment Thresholds
+pH
+Aggressive
+pH < 5.5 (Acidic)
+Resistivity (Lab)
+Very Corrosive
+< 500 ohm-cm
+Corrosive
+< 1000 ohm-cm
+Moderately Corrosive
+< 1500 ohm-cm
+Chlorides
+Corrosive
+> 700 mg/L
+Moderately Corrosive
+> 70 mg/L
+Sulphate
+Aggressive
+> 2000 mg/L
+Moderately Aggressive
+> 1000 mg/L
+
+Soil samples obtained by Thurber Engineering (Thurber) were gathered at the five additional repair sites and are
+detailed in Appendix D. That information, along with soil samples obtained by The City subcontractors in 2014 and
+2024 (Appendix E) is plotted on Figures 8-1 and 8-2. The soil samples taken at the original rupture site were not
+considered reliable by AE due to the volume of water released and, therefore, were not included in this report.
+The data shows a significant number of segments with moderate to very high chloride levels and low resistivities.
+None of the samples showed any sign of aggressive sulphate levels. The data shows that areas with high chloride
+levels generally had low resistivities as expected, and therefore any steel exposed to the environment in these areas
+would be subject to accelerated corrosion and failure rates.
+
+While AWWA M9 did not exist at the time of manufacture or installation, the current edition of M9 specifically states
+that supplemental protection of C301 pipe is required in buried applications with high chloride environments. It goes
+on to specify that in areas where resistivities are below 1500 ohm-cm (common in Calgary), and water-soluble chloride
+exceeds 400 ppm (400 mg/L), one of several specific mitigation steps need to be taken in either the manufacture or
+construction of the feedermain. Based on available information, none of the mitigative steps outlined in M9 were
+applied to the feedermain, nor were they expected to be for a pipe of this vintage.
+
+Figure 8-1 Chloride Levels– mg/L
+
+Chloride Legend:
+     >700 mg/L
+     70 – 700 mg/L
+     <70 mg/L
+
+Figure 8-2 Resistivities– ohm-cm
+
+A desktop review of the soil sampling data in relation to the electromagnetic scan information shown on Figure 6-1,
+through the use of GIS software, revealed the following general observations:
+•
+Comparing the wire break data in Section 6 to the chloride and resistivity data along the entirety of the ~9 km
+of C301-ECP pipe, there is a strong correlation between level of distress, level of chlorides and soil resistivity.
+•
+There are some moderate to severe distressed pipes being reported near areas with relatively low chloride
+and low sulphates levels. Fluctuating groundwater levels can often deposit high levels of chlorides and
+sulphates on pipes in soils that have relatively low chloride or sulphate concentrations.
+•
+There are areas with high levels of chlorides that do not correlate with severe areas of pipe distress.
+•
+Soil samples showing both moderate and significant chloride levels are adjacent to pipes with moderate
+distress, even though some resistivity values are high and are therefore considered to have low corrosivity
+soil. This could indicate that these areas have fluctuating groundwater levels that deposit the chlorides on the
+pipe.
+
+Resistivity Legend:
+     <500 ohm-cm
+     500 – 1000 ohm-cm
+     1000 – 1500 ohm-cm
+     >1500 ohm-cm
+
+When comparing the 2024 soils sampling data to those The City proactively obtained in 2014 as part of its
+Feedermain Condition Assessment Program, there are significant observations to note:
+•
+In 2014, some areas along the feedermain exhibited moderate to severe levels of chlorides
+(i.e., 200 - 1000 mg/L), but generally not the level of chlorides seen around the recent failures or pipe repairs.
+Multiple locations where 2014 soil samples showed either negligible or moderate chlorides (~200 mg/L),
+2024 samples from the same locations show significant chloride levels in the thousands. Either very isolated
+pockets of chlorides exist, or significant soil chemistry changes in the last 10 years have occurred. The
+dramatic shift in soil chemistry between 2014 and 2024 samples may require further investigation as to the
+cause. Ongoing groundwater monitoring may assist in understanding if chlorides are migrating through the
+soils. As well, additional soil sampling may be warranted next to pipes that are in a moderate to severe state of
+distress to understand chloride levels in those locations.
+
+2014 soil samples indicated chloride levels were 1008 mg/L on 33 Avenue NW just west of 83 Street NW
+(Sample ID 2014-002). The 2024 electromagnetic inspection results show significantly distressed pipes between 17 m
+and 50 m from the sample, as shown in Figure 8-3 below.
+
+Figure 8-3 Soil Samples and Wire Breaks on 33 Avenue & 83 Street NW
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks
+
+Some locations indicated high soil resistivity and low chloride concentrations (2024FMSS-19), yet electromagnetic
+inspections indicated moderate distressed pipes within 10 m as shown in Figure 8-4.
+
+Figure 8-4 Soil Samples and Wire Breaks on 33 Avenue & 77 Street NW
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks
+
+In many areas, low resistivity soils and moderate chloride levels from both 2014 and 2024 soil samples were found
+adjacent to pipes showing moderate distress, similar to those shown in Figure 8-5.
+
+Figure 8-5 Soil Samples and Wire Breaks on 16 Avenue & Sarcee Trail NW
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks
+
+Figure 8-6 shows that while 2024 FMSS-13 had moderate chlorides at 316 mg/L, just 15 m away, 2014-007 had
+negligible chlorides. Both of these samples were taken from areas off of the roadway in greenspace
+
+Figure 8-6 Soil Samples and Wire Breaks on 16 Avenue & Bowmont Crescent NW
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks
+
+Figure 8-7 illustrates that the 2014 soil sample (2014-009) shows chlorides at 239 mg/L. However, soil samples 22 m
+west (2024FMSS-06) and 15 m east (2024FMSS-07) on either side show chlorides at 1550 and 2270 mg/L,
+respectively. This is a significant difference. In addition to this, the pipes adjacent to these very corrosive chloride
+levels only show mild distress. It is possible that differences in groundwater movement along the feedermain may be a
+factor. Similar scenarios repeat themselves multiple times along the feedermain.
+
+Figure 8-7 Soil Samples and Wire Breaks on 16 Avenue & 49 Street NW
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks
+
+Figure 8-8 shows that the 2024 soil samples with both moderate and signiﬁcant chloride levels, and low resistivity,
+are adjacent to pipes with moderate distress.
+Figure 8-8 Soil Samples and Wire Breaks on 16 Avenue & Home Road NW
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks
+
+Phase 1 repair site of Pipe 20095 as shown in Figure 8-9, had soil samples with chloride levels ranging from 257 mg/L
+(moderate) to 3070 mg/L (extreme), while soil resistivity ranged from corrosive (460 ohm-cm) to not corrosive
+(2460 ohm-cm). Significant pipe distress was evident on the pipe exhumed from this location.
+Figure 8-9 Soil Samples and Wire Breaks on 16 Avenue & 45 Street NW
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks
+
+Repaired Phase 1 pipes 20189, 20202, 20219 and 20220 in Figure 8-10 had soils with low resistivities (corrosive), as
+well as high to extreme levels of chlorides (as high as 8490 mg/L). There is no doubt based on this data that chlorides
+played a role in the distressed pipes that were exhumed from these locations. However, it is significant for The City to
+note that the 2014 soils samples (2014-011) indicated negligible levels (59.15 mg/L) of chlorides within 30 m of
+Pipes 20189 and 20202.
+
+Figure 8-10
+Soil Samples and Wire Breaks on 16 Avenue & 42 Street NW
+
+8.2
+Geo-Environmental Assessment
+AE conducted a Geo-Environmental review along the feedermain which indicated a moderate to high potential for soil
+and groundwater contamination due to current or past activities. Refer to Appendix F. Specifically, road de-icing
+activities using sodium chloride is highly likely to have contributed to the elevated chloride concentrations found in
+the soil samples. While The City has confirmed that both sodium chloride (road salt) and liquid calcium chloride (brine)
+have been used as de-icers in the past, AE discovered a strong correlation between the elevated sodium and chloride
+concentrations.
+
+Furthermore, AE’s Geo-Environmental review concluded that high concentrations of chlorides in greenspaces are not
+surprising. This is because chlorides from meltwater can migrate and accumulate in these areas, due to multiple factors
+including the presence of gravel soils common in the region.
+
+Legend:
+# mg/L       2014 Chloride Concentration
+# mg/L        2024 Chloride Concentration
+    # ohm-cm  2024 Resistivity Value
+    #            Number of wire breaks

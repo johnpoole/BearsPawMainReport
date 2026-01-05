@@ -3,6 +3,8 @@ from __future__ import annotations
 import argparse
 import json
 import re
+from datetime import date
+from datetime import datetime
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -60,6 +62,18 @@ def _compute_ranges(entries: list[TocEntry], last_page: int) -> list[tuple[TocEn
     return out
 
 
+def _compute_level1_title_ranges(toc: list[TocEntry], last_page: int) -> dict[str, tuple[int, int]]:
+    """Compute (start,end) page ranges for *all* level-1 outline entries.
+
+    We use this to ensure sections like "Executive Summary" stop before
+    "Table of Contents" even if we filter TOC pages from the website nav.
+    """
+
+    level1 = [e for e in toc if e.level == 1]
+    ranges = _compute_ranges(level1, last_page)
+    return {e.title: (e.page, end) for e, end in ranges}
+
+
 def _extract_text_range(doc: fitz.Document, start_page: int, end_page: int) -> str:
     # start/end are 1-based inclusive.
     chunks: list[str] = []
@@ -72,6 +86,63 @@ def _extract_text_range(doc: fitz.Document, start_page: int, end_page: int) -> s
     combined = "\n\n".join(c for c in chunks if c)
     combined = re.sub(r"\n{3,}", "\n\n", combined)
     return combined.strip() + "\n"
+
+
+_STRIP_LINE_PATTERNS = [
+    re.compile(r"^\s*Attachment\s+\d+\s*$", re.IGNORECASE),
+    re.compile(r"^\s*IP\d{4}-\d+\s*$", re.IGNORECASE),
+    re.compile(r"^\s*ISC:\s*Unrestricted\s*$", re.IGNORECASE),
+    # TOC/List headers that occasionally bleed into adjacent extracts.
+    re.compile(r"^\s*TABLE\s+OF\s+CONTENTS\s*$", re.IGNORECASE),
+    re.compile(r"^\s*LIST\s+OF\s+TABLES\s*$", re.IGNORECASE),
+    re.compile(r"^\s*LIST\s+OF\s+FIGURES\s*$", re.IGNORECASE),
+    # Common TOC column labels.
+    re.compile(r"^\s*SECTION\s*$", re.IGNORECASE),
+    re.compile(r"^\s*PAGE\s+NO\.?\s*$", re.IGNORECASE),
+]
+
+
+def _clean_extracted_text(text: str) -> str:
+    out_lines: list[str] = []
+    for raw in text.splitlines():
+        line = raw.rstrip()
+        if any(p.match(line) for p in _STRIP_LINE_PATTERNS):
+            continue
+        out_lines.append(line)
+    cleaned = "\n".join(out_lines)
+    cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
+    return cleaned.strip() + "\n"
+
+
+def _get_range_for_title(
+    *,
+    ranges_all_level1: dict[str, tuple[int, int]],
+    title: str,
+    last_page: int,
+) -> tuple[int, int] | None:
+    """Return a safe (start,end) range for a title.
+
+    Some PDFs have multiple outline entries pointing at the same physical PDF
+    page (notably "Executive Summary" → TOC page). For the landing page we
+    prefer content immediately before the TOC if that happens.
+    """
+
+    if title not in ranges_all_level1:
+        return None
+
+    start, end = ranges_all_level1[title]
+
+    if title == "Executive Summary":
+        toc_start = ranges_all_level1.get("Table of Contents", (0, 0))[0]
+        if toc_start:
+            if start >= toc_start and toc_start - 1 >= 1:
+                start = toc_start - 1
+            if toc_start - 1 >= 1:
+                end = min(end, toc_start - 1)
+
+    start = max(1, min(start, last_page))
+    end = max(start, min(end, last_page))
+    return start, end
 
 
 def _extract_images_for_range(
@@ -140,18 +211,29 @@ def _extract_images_for_range(
 
 
 def _text_to_html_paragraphs(text: str) -> str:
-    # Minimal text → HTML: split on blank lines, preserve line breaks within paragraphs.
+    # Minimal text → HTML with basic bullet list support.
     paras = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
-    html_paras: list[str] = []
+
+    def esc(s: str) -> str:
+        return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+    html_blocks: list[str] = []
     for p in paras:
-        safe = (
-            p.replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-        )
-        safe = safe.replace("\n", "<br/>")
-        html_paras.append(f"<p>{safe}</p>")
-    return "\n".join(html_paras)
+        lines = [l.strip() for l in p.splitlines() if l.strip()]
+        bullet_lines = [l for l in lines if l.startswith("•")]
+
+        if bullet_lines and len(bullet_lines) >= max(2, len(lines) // 2):
+            items = [f"<li>{esc(l.lstrip('•').strip())}</li>" for l in bullet_lines]
+            html_blocks.append("<ul>" + "".join(items) + "</ul>")
+            non_bullets = [l for l in lines if not l.startswith("•")]
+            if non_bullets:
+                html_blocks.append(f"<p>{esc(' '.join(non_bullets))}</p>")
+            continue
+
+        escaped = esc(p).replace("\n", "<br/>")
+        html_blocks.append(f"<p>{escaped}</p>")
+
+    return "\n".join(html_blocks)
 
 
 def _render_shell(*, title: str, nav_html: str, body_html: str, rel_prefix: str) -> str:
@@ -183,8 +265,13 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Build a redesigned static website from the report PDF.")
     parser.add_argument("--pdf", required=True)
     parser.add_argument("--structure", required=True, help="Path to report-structure.json")
-    parser.add_argument("--out", required=True, help="Output folder (web/) containing pages/ and assets/")
+    parser.add_argument("--out", default=".", help="Output folder (repo root recommended).")
     parser.add_argument("--max-pages", type=int, default=0, help="Optional cap to reduce extraction time")
+    parser.add_argument(
+        "--timeline-events",
+        default="data/timeline-events.json",
+        help="Path to curated timeline events JSON (list of objects). The timeline page always uses this file (no auto date extraction).",
+    )
     # Intentionally no option to link/copy the source PDF into the website output.
     args = parser.parse_args()
 
@@ -201,6 +288,12 @@ def main() -> int:
     assets_dir.mkdir(parents=True, exist_ok=True)
     figures_dir.mkdir(parents=True, exist_ok=True)
 
+    # Copy source stylesheet into the output (so the site can be generated into repo root).
+    script_dir = Path(__file__).resolve().parent
+    source_css = script_dir / "assets" / "style.css"
+    if source_css.exists():
+        (assets_dir / "style.css").write_text(source_css.read_text(encoding="utf-8"), encoding="utf-8")
+
     toc = _load_outline_toc(Path(args.structure))
     doc = fitz.open(pdf_path)
     last_page = doc.page_count
@@ -210,12 +303,10 @@ def main() -> int:
     main_entries = _filter_main_report_entries(toc)
     appendix_entries = _get_appendix_entries(toc)
 
-    # Build nav using level-1 headings as primary pages.
-    level1 = [e for e in main_entries if e.level == 1]
-
     # Explicit mapping from report outline to website pages.
     page_defs = [
         ("overview", "Overview", ["Executive Summary"]),
+        ("timeline", "Timeline", ["Timeline"]),
         ("incident-repairs", "Incident & Repairs", ["3 Field Observations"]),
         ("system-background", "System Background", ["1 Introduction", "2 Bearspaw South Feedermain"]),
         ("analyses", "Analyses", [
@@ -233,8 +324,8 @@ def main() -> int:
         ("appendices", "Appendices", ["Appendices"]),
     ]
 
-    # Precompute ranges for level-1 entries (and closure) to allow extraction by section title.
-    ranges = {e.title: (e.page, end) for e, end in _compute_ranges(level1, last_page)}
+    # Use *full* level-1 outline (including TOC/lists) for accurate boundaries.
+    ranges_all_level1 = _compute_level1_title_ranges(toc, last_page)
 
     def nav_html(active_slug: str, *, in_pages_dir: bool) -> str:
         items = []
@@ -253,15 +344,157 @@ def main() -> int:
         for t in section_titles:
             if t == "Appendices":
                 continue
-            if t not in ranges:
+            rng = _get_range_for_title(ranges_all_level1=ranges_all_level1, title=t, last_page=last_page)
+            if not rng:
                 continue
-            start, end = ranges[t]
-            out[t] = _extract_text_range(doc, start, min(end, last_page))
+            start, end = rng
+            out[t] = _clean_extracted_text(_extract_text_range(doc, start, end))
         return out
 
     # Build pages.
     for slug, label, section_titles in page_defs:
         in_pages_dir = slug != "overview"
+
+        if slug == "timeline":
+            timeline_path = Path(args.timeline_events)
+            if not timeline_path.exists():
+                raise SystemExit(
+                    f"Missing curated timeline events JSON: {timeline_path}. "
+                    "Create it (data/timeline-events.json) or pass --timeline-events <path>."
+                )
+
+            events_obj = json.loads(timeline_path.read_text(encoding="utf-8"))
+            if not isinstance(events_obj, list):
+                raise SystemExit("Timeline events JSON must be a list of objects")
+
+            # Minimal normalization: ensure required keys exist.
+            norm: list[dict] = []
+            for e in events_obj:
+                if not isinstance(e, dict):
+                    continue
+                if not (e.get("date") or e.get("when")):
+                    continue
+                when = e.get("when")
+                if not when and e.get("date"):
+                    try:
+                        dt = date.fromisoformat(str(e["date"]))
+                        when = dt.strftime("%b %d, %Y")
+                    except Exception:
+                        when = str(e.get("date"))
+                norm.append(
+                    {
+                        "date": str(e.get("date") or ""),
+                        "when": str(when or ""),
+                        "title": str(e.get("title") or when or ""),
+                        "description": str(e.get("description") or ""),
+                        "sourceSection": str(e.get("sourceSection") or "Report"),
+                        "sourcePage": int(e.get("sourcePage") or 0),
+                    }
+                )
+
+            # Sort by ISO date when available; otherwise keep file order.
+            if all((n.get("date") or "").count("-") == 2 for n in norm):
+                norm.sort(key=lambda x: x.get("date") or "")
+
+            events = norm
+            events_json = json.dumps(events, ensure_ascii=False)
+
+            body = f"""
+<h1>{label}</h1>
+<p class=\"meta\">Curated key dated moments from the report, displayed as an interactive timeline.</p>
+
+<div class=\"callout\">
+    <div id=\"timeline\" class=\"timeline\"></div>
+    <div id=\"timeline-tooltip\" class=\"timeline-tooltip\" style=\"display:none\"></div>
+</div>
+
+<script src=\"https://d3js.org/d3.v7.min.js\"></script>
+<script>
+    const events = {events_json};
+
+    (function renderTimeline() {{
+        const root = document.getElementById('timeline');
+        const tooltip = document.getElementById('timeline-tooltip');
+        if (!root || !window.d3) return;
+
+        const data = (events || []).slice();
+
+        if (!data.length) {{
+            root.innerHTML = '<p>No dated events found in the processed page range.</p>';
+            return;
+        }}
+
+        const margin = {{top: 18, right: 18, bottom: 18, left: 26}};
+        const rowH = 44;
+        const width = Math.max(720, root.clientWidth || 720);
+        const height = margin.top + margin.bottom + (rowH * (data.length - 1)) + 20;
+
+        root.innerHTML = '';
+        const svg = d3.select(root)
+            .append('svg')
+            .attr('viewBox', `0 0 ${{width}} ${{height}}`)
+            .style('width', '100%')
+            .style('height', 'auto');
+
+        const lineX = margin.left + 12;
+        const y = (i) => margin.top + (i * rowH);
+
+        svg.append('line')
+            .attr('x1', lineX)
+            .attr('x2', lineX)
+            .attr('y1', y(0))
+            .attr('y2', y(data.length - 1))
+            .attr('class', 'timeline-axis');
+
+        const g = svg.append('g');
+        const nodes = g.selectAll('g.node')
+            .data(data)
+            .enter()
+            .append('g')
+            .attr('class', 'node')
+            .attr('transform', (d, i) => `translate(0,${{y(i)}})`);
+
+        nodes.append('circle')
+            .attr('cx', lineX)
+            .attr('cy', 0)
+            .attr('r', 6)
+            .attr('class', 'timeline-dot')
+            .on('mouseenter', (evt, d) => {{
+                tooltip.style.display = 'block';
+                tooltip.innerHTML = `<strong>${{d.when}}</strong><br/>${{d.description}}<br/><span class=\"muted\">${{d.sourceSection}} (p${{d.sourcePage}})</span>`;
+            }})
+            .on('mousemove', (evt) => {{
+                tooltip.style.left = (evt.pageX + 12) + 'px';
+                tooltip.style.top = (evt.pageY + 12) + 'px';
+            }})
+            .on('mouseleave', () => {{
+                tooltip.style.display = 'none';
+            }});
+
+        nodes.append('text')
+            .attr('x', lineX + 16)
+            .attr('y', -4)
+            .attr('class', 'timeline-label')
+            .text(d => d.title);
+
+        nodes.append('text')
+            .attr('x', lineX + 16)
+            .attr('y', 14)
+            .attr('class', 'timeline-when')
+            .text(d => d.when);
+    }})();
+</script>
+            """
+
+            html_out = _render_shell(
+                title=f"{label} — BearsPaw Main Report",
+                nav_html=nav_html(slug, in_pages_dir=True),
+                body_html=body,
+                rel_prefix="../",
+            )
+            (pages_dir / f"{slug}.html").write_text(html_out, encoding="utf-8")
+            continue
+
         if slug == "appendices":
             appendix_list = "\n".join(
                 f"<li>{e.title} (starts p{e.page})</li>" for e in appendix_entries
@@ -302,12 +535,12 @@ def main() -> int:
         for t in section_titles:
             if t == "Appendices":
                 continue
-            if t not in ranges:
+            rng = _get_range_for_title(ranges_all_level1=ranges_all_level1, title=t, last_page=last_page)
+            if not rng:
                 continue
-            start, end = ranges[t]
+            start, end = rng
             if start > last_page:
                 continue
-            end = min(end, last_page)
             figure_items.extend(
                 _extract_images_for_range(
                     doc=doc,
@@ -336,7 +569,12 @@ def main() -> int:
                 body_bits.append(f"<div class=\"gallery\">{gallery}</div>")
             body_bits.append("<h2>Quick links</h2>")
             body_bits.append("<div class=\"pills\">" + "".join(
-                f"<span class=\"pill\">{lbl}</span>" for _, lbl, _ in page_defs if lbl != "Overview"
+                (
+                    f"<a class=\"pill\" href=\"pages/{slug2}.html\">{lbl}</a>"
+                    if slug2 != "overview" else ""
+                )
+                for slug2, lbl, _ in page_defs
+                if lbl != "Overview"
             ) + "</div>")
         else:
             if figure_items:

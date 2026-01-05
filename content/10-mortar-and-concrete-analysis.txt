@@ -1,0 +1,30 @@
+10
+MORTAR AND CONCRETE ANALYSIS
+Tetra Tech was retained by Pure to conduct laboratory analysis of the mortar and concrete core samples obtained
+from the June 5, 2024 rupture. Tetra Tech’s report (in Appendix H) concluded that the mortar and concrete used in
+the Class 16 pipe, which ruptured, was of good to excellent quality and would have met C301 standards. There was no
+mortar deterioration or chemical attack, and the level of chlorides in the mortar and concrete were low, so they were
+not a contributing factor to the deterioration of the steel components.
+
+AE’s subconsultant Thurber Engineering conducted an analysis of the mortar and concrete samples of the pipes which
+were exhumed in the Phase 1 repairs. Thurber’s analysis (in Appendix D) determined that 3 of the 4 pipes exhumed
+(Pure Robotic Pipe 20095, 20202, 20219) had chloride ions penetrate the mortar that exceeded American Concrete
+Institute thresholds.
+•
+Pipe 20095 showed evidence of chloride penetration in the mortar samples where distress was noted, but not
+in areas where the pipe was in otherwise good shape. There was also no chloride penetration of the outer
+concrete core.
+•
+Pipe 20202 showed evidence of chloride penetration in the mortar samples where distress was noted, but not
+in areas where the pipe was in otherwise good shape. There was evidence of chloride penetration of the outer
+concrete core in some of the distressed areas.
+•
+Pipe 20219 showed evidence of chloride penetration in the mortar samples where distress was noted, and
+generally not where the pipe appeared sound.
+•
+Pipe 20220 had only one core taken, which did not show evidence of chloride penetration of the mortar or
+concrete.
+
+It is important to note here that the fabrication drawings of the pipes routinely listed the use of Type V Sulphate
+resistant cement. While soils with high sulphates are more commonly found in Calgary than soils with high chloride
+levels, sulphate resistant cement is considered to be one of the least resistant mixes to chloride penetration.

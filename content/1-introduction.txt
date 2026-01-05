@@ -1,0 +1,65 @@
+1
+INTRODUCTION
+1.1
+Scope of Work
+The purpose of this report is to provide The City of Calgary (The City) with a summary of the forensic investigation
+into the failure of The City’s Bearspaw South Feedermain (BSFM), and distressed pipe located subsequent to the initial
+failure. This report will outline the findings obtained through various field, laboratory, and desktop investigations of
+the initial rupture and subsequent Phase 1 repairs. This report will not detail any findings of the Phase 2 repairs, as
+they were ongoing at the time of this report but will cover the electromagnetic inspection results of the entire
+Prestressed Concrete Cylinder Pipe (AWWA C301) portion of the BSFM. Key findings of potential causes for the
+material failures and pipe distress will be provided, but this report is not intended to be a root cause analysis.
+
+1.2
+Background
+On June 5, 2024, The City experienced a significant break on the BSFM. This feedermain is the backbone of The City’s
+transmission network, conveying water from the Bearspaw Water Treatment Plant (BWTP) directly into the Glenmore
+Pressure Zone (PZ). This is The City’s largest PZ, which feeds numerous other PZ’s, ultimately providing water service
+to over 90% of The City’s population, as well as Regional Customers. See Figure 1-1 on the following page.
+
+The BSFM is 10.84 km in length and is comprised of the following segments:
+•
+1.61 km 1950 mm diameter AWWA C200 steel pipe.
+•
+5.94 km 1950 mm diameter AWWA C301 prestressed concrete cylinder pipe (PCCP).
+•
+3.29 km 1500 mm diameter AWWA C301 PCCP.
+
+During the response to the initial rupture, The City performed electromagnetic inspections of the pipe 2.5 km
+upstream (west) and 1.7 km downstream (east) of the failed pipe. This was the maximum length of pipe that could be
+inspected given equipment and time limitations. These inspections revealed additional distressed pipe segments
+resulting in the decision to perform immediate repairs of five additional sites before returning the BSFM to service.
+Following return to service, The City performed further electromagnetic inspection of the BSFM, covering the full
+5.9 km length of 1950 mm diameter AWWA C301 and 3.3 km of 1500 mm diameter AWWA C301 pipe that forms
+part of the BSFM. An additional 0.5 km of 1200 mm C301 feedermain leading into the Memorial Drive Pump
+Station #5 was inspected as well. The steel (AWWA C200) section of BSFM was not inspected.
+
+The City requested Associated Engineering (AE) to conduct a forensic investigation of the initial rupture, also
+considering information gathered from the proactively repaired pipes in Phase 1 which were identified through
+electromagnetic inspection.
+
+1.3
+Investigation Summary
+AE compiled information from various sources including The City and its subconsultants to form this forensic
+investigation. These inputs include the following:
+•
+Field observations and measurements with pipes in-situ by AE.
+•
+Field observations and measurements by AE following pipe exhumation and hydroblasting coordinated by The
+City.
+•
+Stray current assessment by Corrpro (AE subconsultant).
+•
+Laboratory analysis of mortar, concrete, and steel samples by Tetra Tech, Pure Technologies (Pure), and
+Thurber Engineering (AE subconsultant).
+•
+Soil samples adjacent to and in close proximity to the feedermain by The City’s subcontractors and Thurber
+Engineering (AE subconsultant).
+•
+Desktop review of record drawings and AWWA standards.
+•
+Pure’s Finite Element Analysis.
+•
+Geo-Environmental review by AE.
+•
+Pure’s Electromagnetic Inspection results.

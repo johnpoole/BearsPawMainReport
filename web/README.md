@@ -7,15 +7,22 @@ This folder contains a **redesigned** static website that presents the report co
 From the repo root:
 
 ```powershell
-& "C:/Users/jdpoo/Documents/GitHub/BearsPawMainReport/.venv/Scripts/python.exe" "web/build_redesigned_site.py" --pdf "Bearspaw South Feeder Main Investigation Report - IP2024-1237.pdf" --structure "site/report-structure.json" --out "web"
+./web/build.ps1 -PdfPath "C:\\path\\to\\your\\report.pdf"
 ```
+
+The PDF is intentionally not committed to git. You can keep it anywhere on disk and pass its path to the build script.
 
 ## Preview locally
 
 ```powershell
-Set-Location web
-& "C:/Users/jdpoo/Documents/GitHub/BearsPawMainReport/.venv/Scripts/python.exe" -m http.server 8001
+./web/serve-8000.ps1
 ```
 
 Then open:
-- http://localhost:8001/
+- http://localhost:8000/
+
+## One-step rebuild + preview
+
+```powershell
+./web/build-and-serve.ps1 -PdfPath "C:\\path\\to\\your\\report.pdf"
+```

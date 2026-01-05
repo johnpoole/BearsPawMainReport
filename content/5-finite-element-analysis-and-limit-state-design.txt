@@ -1,0 +1,29 @@
+5
+FINITE ELEMENT ANALYSIS & LIMIT STATE DESIGN
+Pure was enlisted by The City to develop Performance Curves through Finite Element Analysis (FEA) to determine
+when a pipe will reach various limit states as defined by AWWA C304, based on internal pressure, depth of cover, and
+the number of wire breaks per pipe segment. The Performance Curves for the Class 16 pipe at two depths of cover
+are provided in Figures 5-1 and 5-2. At the time of writing this report, AE had not received Performance Curves for
+the Class 20 pipe.
+
+Pure’s Performance Curves for the Class 16 1950 mm pipe show that the normal working pressure and design
+pressure (accounting for potential transients/surge) are well within the yield strength and ultimate strength of the
+pipe. However, the Performance Curves show that Class 16 pipes could possibly experience microcracking of the
+external mortar due to mild transient events, especially in areas with deep cover (significant external loading) or if any
+prestress wires have already been compromised. Microcracks are very small cracks within the mortar that are invisible
+to the naked eye, and an indication that the pipe has experienced significant internal or external stresses.
+
+Microcracking has no immediate impact on the structural integrity of a pipe but compromises the ability of the mortar
+to protect the prestressed wires from moisture and interaction with the soil around the pipe. There is a possibility that
+surge pressures resulted in microcracking of some pipes due to operations over the last 50 years. While Performance
+Curves for Class 20 pipes and 1500 mm pipes have not been provided, it is possible that the working pressures and
+external loading in those areas, combined with transient events, resulted in microcracking of those pipes as well.
+
+AWWA C304, which requires pipes to be designed according to the limit states as shown in Pure’s Performance
+Curves, was introduced in 1992. AWWA C304 introduced a unified design procedure that replaced two procedures
+previously outlined in AWWA C301-84. Therefore, it is possible that the design of the pipe did not account for
+microcracking while still meeting applicable standards at that time.
+
+Figure 5-1 Pure Technologies FEA Performance Curve for Class 16 C301-ECP w 2.1 m Cover
+
+Figure 5-2 Pure Technologies FEA Performance Curve for Class 16 C301-ECP w 4.1 m Cover

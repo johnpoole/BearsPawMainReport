@@ -1,0 +1,154 @@
+[
+  {
+    "date": "2024-06-05",
+    "when": "Jun 05, 2024",
+    "title": "Jun 05, 2024 — Catastrophic failure of the BSFM",
+    "description": "On June 5, 2024, the Bearspaw South Feedermain (BSFM) suffered a catastrophic failure.",
+    "sourceSection": "Executive Summary",
+    "sourcePage": 3
+  },
+  {
+    "date": "",
+    "when": "Immediately after Jun 05, 2024",
+    "title": "Immediate response — AE engaged for forensic investigation",
+    "description": "Immediately following the rupture, The City requested Associated Engineering (AE) to undertake a forensic investigation of the failed pipe, considering subsequent information gained during exposure of additional distressed pipes.",
+    "sourceSection": "Executive Summary",
+    "sourcePage": 3
+  },
+  {
+    "date": "",
+    "when": "Early June 2024 (post-rupture)",
+    "title": "Exposure — ruptured segment excavated and examined",
+    "description": "Following work by City crews to fully expose the ruptured pipe segment, representatives from The City, AE, Corrpro, and Pure met on-site to inspect the damage and document conditions.",
+    "sourceSection": "3 Field Observations",
+    "sourcePage": 15
+  },
+  {
+    "date": "2024-06-07",
+    "when": "Jun 07, 2024",
+    "title": "Jun 07, 2024 — Corrpro contracted for corrosion assessment",
+    "description": "On June 7, 2024, Corrpro Canada, Inc. (Corrpro) was contracted by Associate Engineering to perform a corrosion assessment.",
+    "sourceSection": "Corrosion Assessment (Corrpro addendum)",
+    "sourcePage": 112
+  },
+  {
+    "date": "2024-06-08",
+    "when": "Jun 08, 2024",
+    "title": "Jun 08, 2024 — On-site inspection of pipe damage",
+    "description": "Representatives from The City (multiple departments), AE, Corrpro, and Pure met on-site on June 8 and conducted an inspection of the pipe damage.",
+    "sourceSection": "3 Field Observations",
+    "sourcePage": 15
+  },
+  {
+    "date": "",
+    "when": "Post-rupture (field observations)",
+    "title": "Observed failure — widespread prestress wire breaks",
+    "description": "Across the rupture (~2 m), every visible prestressed wire was broken (estimated ~200 broken wires), with fracture appearances including general corrosion and brittle and ductile modes.",
+    "sourceSection": "3 Field Observations",
+    "sourcePage": 15
+  },
+  {
+    "date": "",
+    "when": "Post-rupture (condition assessment)",
+    "title": "Assessment — Pure contracted for electromagnetic inspections",
+    "description": "Following the June 5 rupture, The City contracted Pure to inspect the C301 portion of the BSFM using robotic and free-swimming electromagnetic inspection tools.",
+    "sourceSection": "6 Electromagnetic Inspection Results",
+    "sourcePage": 40
+  },
+  {
+    "date": "",
+    "when": "Post-rupture (inspection results)",
+    "title": "Inspection findings — 239 additional distressed pipes",
+    "description": "Electromagnetic inspections revealed a total of 239 distressed pipes in addition to the pipe that ruptured, with distressed pipes defined as pipe lengths having one or more wraps of prestressed wires broken.",
+    "sourceSection": "6 Electromagnetic Inspection Results",
+    "sourcePage": 40
+  },
+  {
+    "date": "",
+    "when": "Post-rupture (repairs)",
+    "title": "Phase 1 repairs — five distressed pipes addressed",
+    "description": "AE observed the Phase 1 repair program to replace/rehabilitate five pipes identified as distressed in the electromagnetic inspections undertaken subsequent to the initial break.",
+    "sourceSection": "3 Field Observations",
+    "sourcePage": 17
+  },
+  {
+    "date": "",
+    "when": "Post-rupture (forensic examination)",
+    "title": "Pipe examinations — hydroblasting reveals more damage than EM indicated",
+    "description": "Exhumed pipes were examined after mortar removal (hydroblasting). Observations indicate some wires were electrically continuous in-situ but corroded to the point they broke during handling, explaining why electromagnetic inspection may report conservative pipe condition.",
+    "sourceSection": "3 Field Observations",
+    "sourcePage": 17
+  },
+  {
+    "date": "2024-06-11",
+    "when": "Jun 11, 2024",
+    "title": "Jun 11, 2024 — Corrpro report (referenced by addendum)",
+    "description": "This report is an addendum to the previous Corrpro report dated June 11, 2024.",
+    "sourceSection": "Corrosion Assessment (Corrpro addendum)",
+    "sourcePage": 112
+  },
+  {
+    "date": "2024-06-21",
+    "when": "Jun 21, 2024",
+    "title": "Jun 21, 2024 — Additional Corrpro investigation",
+    "description": "Corrpro personnel performed an additional investigation on June 21, 2024.",
+    "sourceSection": "Corrosion Assessment (Corrpro addendum)",
+    "sourcePage": 112
+  },
+  {
+    "date": "2024-06-28",
+    "when": "Jun 28, 2024",
+    "title": "Jun 28, 2024 — Corrpro addendum letter date",
+    "description": "Corrpro addendum/letter dated June 28, 2024 (referenced in the corrosion assessment addendum section header).",
+    "sourceSection": "Corrosion Assessment (Corrpro addendum)",
+    "sourcePage": 112
+  },
+  {
+    "date": "",
+    "when": "Post-rupture (environmental investigation)",
+    "title": "Soil sampling — rupture-site soil samples not reliable",
+    "description": "Soil samples taken at the original rupture site were not considered reliable due to the volume of water released and were not included in the report’s soil assessment.",
+    "sourceSection": "8 Environmental Investigation",
+    "sourcePage": 46
+  },
+  {
+    "date": "",
+    "when": "Post-rupture (environmental investigation)",
+    "title": "Soils — chlorides/resistivity correlate with pipe distress",
+    "description": "The report describes a strong correlation between pipe distress, elevated chlorides, and low soil resistivity, with elevated chlorides believed to be related to road de-icing activities.",
+    "sourceSection": "8 Environmental Investigation",
+    "sourcePage": 46
+  },
+  {
+    "date": "",
+    "when": "Key findings",
+    "title": "Non-contributors — pressure transients, pump ops, live load, stray current",
+    "description": "Findings indicate pump/system operations and transients did not contribute; live loading is not believed to be a factor; and stray current induced corrosion does not appear to be present.",
+    "sourceSection": "Executive Summary / Summary of Observations",
+    "sourcePage": 3
+  },
+  {
+    "date": "",
+    "when": "Key findings",
+    "title": "Materials — corrosion, pitting, brittle fractures, SCC/HE evidence",
+    "description": "Lab and field observations describe severe pitting/corrosion and brittle wire failures, with evidence of Stress Corrosion Cracking and Hydrogen Embrittlement associated with chloride penetration and/or microcracking of mortar.",
+    "sourceSection": "Summary of Observations",
+    "sourcePage": 60
+  },
+  {
+    "date": "",
+    "when": "Conclusion",
+    "title": "Probable cause — prestress wire failures driven by mortar compromise",
+    "description": "The probable cause is loss of structural integrity primarily through prestress wire failure, with microcracking or mortar damage allowing moisture/corrosive soils to interact with wires, leading to SCC and/or HE and brittle failures.",
+    "sourceSection": "13 Probable Cause",
+    "sourcePage": 62
+  },
+  {
+    "date": "2024-09-03",
+    "when": "Sep 03, 2024",
+    "title": "Sep 03, 2024 — EM inspection results issued",
+    "description": "Issued to Associated Engineering on September 3, 2024.",
+    "sourceSection": "Appendix B — Pure EM Inspection Results",
+    "sourcePage": 94
+  }
+]

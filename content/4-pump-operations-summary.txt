@@ -1,0 +1,7 @@
+4
+PUMP OPERATIONS SUMMARY
+AE conducted a pump operations review immediately following the rupture of the BSFM; the technical memorandum
+is included in Appendix A. This review included an examination of pump operations prior to the failure, as well as a
+hydraulic analysis of the BSFM during a simulated transient pressure event. According to this review, pump operations
+immediately before the failure did not contribute to the failure. The modeled pressures during the simulated transient
+event were within bounds and not a contributing factor.

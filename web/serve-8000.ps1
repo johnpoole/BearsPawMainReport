@@ -20,6 +20,7 @@ try {
   # No listener or Get-NetTCPConnection unavailable
 }
 
-# Start server from the web folder
-Set-Location $PSScriptRoot
+# Start server from the repo root (so index.html is at /)
+$RepoRoot = Resolve-Path (Join-Path $PSScriptRoot '..')
+Set-Location $RepoRoot
 & "C:/Users/jdpoo/Documents/GitHub/BearsPawMainReport/.venv/Scripts/python.exe" -m http.server $Port
